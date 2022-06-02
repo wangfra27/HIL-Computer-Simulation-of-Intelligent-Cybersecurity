@@ -1,1 +1,15 @@
-
+Progress Report 1 (5/25)
+Accomplishments: 
+Drafted an outline with specific steps for the summer. 
+Created Github page for the Project, starter files have yet to be added - Dr. Liu still needs to be added
+Prerequisites and Dependencies for Carla installed
+Unreal Engine has been built
+Ongoing: 
+Currently still working on getting a working version of Carla, a couple roadblocks were hit. 
+Problems: 
+There appears to be some sort of problem with cmake when running make PythonAPI to compile the Python API. 
+I have not been able to find any solutions for this problem online. 
+Next Steps: 
+Finish Carla installation
+Add files to complete Github setup
+Connect OpenPilot to Carla 
