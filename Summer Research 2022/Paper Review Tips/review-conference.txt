@@ -1,0 +1,233 @@
+Reviewing a CS conference paper
+
+Reviewing a conference paper is a non-trivial task.  Often, reviewers
+have to read and review more than one paper, and usually under a
+tight time deadline.  Regardless, there is a right way to review
+a paper, and many wrong things.  This document contains my thought
+on the "right way", and points out several mistakes that many (or
+even most) reviewers make.
+
+The following is a list of principles to use; I'll elaborate on
+each of these below:
+
+    1. Review the paper
+    2. Review to accept papers
+    3. Don't demand too much
+    4. Write a review
+    5. Note little things, but don't make them your review
+    6. Things to avoid
+
+Much of this is subjective and is based on my reviewing experiences
+(from both sides) in Computer Graphics and Geometric Modeling. 
+Things may differ in your area, and you may have a different opinion.
+Feel free to send me email about this, although please apply the
+criteria below when composing your message.
+
+Stephen Mann
+April, 2009
+===========
+
+1. Review the paper
+
+    This may sound obvious, but it's harder to do than it sounds.  The
+    grossest violation of this principle are the reviews that say "the
+    authors should have done this instead."  But your review should not
+    be about what should have been done; rather it should be a critique
+    of what they authors actually did.  If you feel the authors should
+    have done something else, accept the paper and discuss it with them
+    at the conference.
+
+    But reviewing the paper is hard for an important reason: usually,
+    the authors are too close to their work, and thus have difficulties
+    stating precisely what they did, why it's of interest, and why it's
+    important.  "Reviewing the paper" means reading to a level that you
+    understand what the authors did, why it's interesting, and why it's
+    important.  As part of your review, you should note these things.
+    And you should accept or reject the paper based on whether you
+    think the *contribution* is significant enough.  If you think the
+    paper is poorly written, or the contribution is poorly described,
+    state that, but do not make it your basis for rejecting the paper.
+
+    This rule is usually violated because reviewers are overloaded
+    and under time pressure.  A poorly stated result may be hard
+    to tease out of the paper, but if you're not going to take the
+    time to do so, then you shouldn't be reviewing the paper, and if
+    you don't have the time to do so, you need to reduce your reviewing
+    load.
+
+    [NOTE TO AUTHORS: to help ensure that reviewers can determine what
+    you did, etc., spell it out.  Mention it in the abstract; state it
+    in the introduction; and restate it in the conclusions, where you
+    should link back to the body of text to support your statements.]
+
+2. Review to accept papers.
+
+    When you read a paper, try to find reasons to accept the paper.
+    If nothing else, if you're following the first principle (Read
+    the paper), you should spot what is good about the paper and
+    highlight that in your review.  If you don't like the approach,
+    fine, but try to decide what about the authors paper makes it
+    acceptable for publication.  Yes, not all papers are worth
+    publishing, but almost all papers have an idea that the author
+    is promoting and you should review to accept that idea.
+
+    Sometimes the idea is bad/wrong/already-been-done.  And that's
+    fine - the paper can't be accepted.  But read the paper looking
+    for a reason to accept it, and don't reject it unless that
+    reason doesn't exist.
+
+    And sometimes an idea is clearly half-done.  The temptation is
+    to reject the paper with the recommendation that it be resubmitted
+    when the research is complete.  But often it's the idea itself
+    that is the research contribution.  And if it's a good idea,
+    then consider accepting the paper on that basis.  This becomes
+    particularly important when you realize that a lot of research
+    is done by graduate students, and papers submitted on their
+    work may be all that ever gets done on it.  By rejecting a great
+    idea because it wasn't perfectly polished, the idea may never get
+    published despite being worthy of publication, since that student's 
+    work is done.
+
+    Related to this is when you write your review, write with the
+    mind set "how to improve this paper" rather than "here's a list
+    of things that are wrong with this paper."
+
+
+3. Don't demand too much
+
+    The paper is a conference submission, and there are page limits.
+    Don't write a review saying "the authors should include the
+    following", where "the following" would push the paper well past
+    the page limits.  If there is something so critical that it
+    MUST be included, suggest something to remove/reduce so that 
+    the authors can kept to the page limits.
+
+    Likewise, don't demand any additional work that can't be done in 
+    the time between acceptance notification and the final submission
+    deadline.  While analysis can sometimes be redone, it's unlikely
+    that another experiment can be run or significant code can be
+    written.
+
+4. Write a review
+
+    Review forms have check boxes, and there is a temptation is 
+    rely on the check boxes with minimal comments.  But your 
+    written comments are really the important part of your 
+    review, and you should write comments that help both the
+    program committee and the authors.
+    
+    In particular, be sure to cover the following in your written
+    comments; some of this material will be in response to questions 
+    on the review form, but regardless it should all be covered
+    somewhere in your review:
+
+	1. Outline the paper.
+
+	2. Highlight the contribution of the paper, both what
+	   the authors perceive it to be and what you perceive
+	   it to be, as well as how significant it is.
+
+	3. State your recommendation and why.
+
+	4. State ways to improve the paper, but don't ask too
+	   much (see both the previous and next sections).
+    
+    The first forces you to reread the paper, which helps in writing 
+    your review.  The second is the hard part: you need to figure out
+    what the authors think is their contribution.  The 3rd is one
+    that the program committee will focus on.  Of these four, the 2nd
+    and 3rd are the important ones.
+
+
+5. Note little things, but don't make them your review
+
+    "The authors should include the following references."
+
+    "The grammar needs to be improved."
+
+    "The figures are poor quality."
+
+    No paper is perfect.  There will be details that are wrong, often
+    of the above variety, but sometimes of a bit more substance ("the
+    authors give the wrong formula for X").  These are not reasons
+    to reject a paper (although if you can NOT read a paper because
+    the grammar is terrible, you have no choice but to reject it for
+    that reason).  Again, focus on the contribution and base your
+    recommendation on the contribution and not the writing details.
+
+    You should note the small things, but ideally place them at the
+    end of your review in a separate section as "details to improve".
+
+6. Things to avoid
+
+    Here's a list of miscellaneous things to watch out for in your
+    reviews.
+
+    A. Do not say "the authors should add additional references on X"
+	without actually listing those references.  If you're enough of
+	an expert to make the judgement, then you should be enough of
+	an expert to explicitly list those references and state why
+	they should be added.  In particular, since there is a page
+	limit, the bibliography should be focused on the most relevant
+	work, and not be a complete survey of the topic.  So if you
+	think a paper should be cited, give a strong reason as to why,
+	since potentially the authors know of the reference and
+	decided not to list it for their own reasons - your argument
+	to include the reference should be strong enough to convince
+	someone who has already decide to not include it.
+
+	And NEVER, NEVER, NEVER reject a paper because it omitted
+	references!  Don't even HINT at rejecting a paper for this
+	reason.  This may sound obvious, but if you decide that
+	a paper should not be accepted and in summarizing your
+	reasons you mention the missing references, you have just
+	hinted that you rejected the paper for missing references.
+
+	(As a more general rule, never reject a paper for something 
+	that can be fixed in 5 minutes.)
+
+    B. Usually you get to rank the paper on a scale like 1 to 5 as
+	to whether or not the paper should be accepted.  Around 2/3
+	your rankings should be 1 or 5, around 1/3 should be 2 or 4,
+	and you should rarely, rarely, rarely give a rating of 3,
+	which should be considered a reject anyway.  If you can't 
+	give a strong recommendation, then you likely didn't 
+	understand the paper well enough to review it.  
+
+	I have heard the statement "I never give a 1 because I don't 
+	want to hurt the authors feelings."  That just makes "2" the
+	new "1", and you won't have spared anyones feelings.  If you
+	don't want to hurt the authors feelings, then do a good job
+	of understanding the paper and base your decision on what
+	the authors did, and write your review as "how to improve
+	the paper" rather than "bash the paper".
+
+    C. Some people will try to tell you that for some conferences,
+	the conference papers are the same quality as a journal paper.  
+	This is wrong for several reasons: there is usually an
+	explicit page limit, and there is no chance for resubmission
+	(resubmitting the paper to a future conference is different
+	than resubmitting a journal paper).  The result is a lower
+	quality paper than a journal paper.
+
+	This doesn't mean conference papers are terrible, nor does
+	it mean they are worthless.  Making a distinction between
+	the two is important, however, since you review a journal
+	submission with different standards/criteria/etc than you 
+	review a conference submission.  In particular, a journal
+	paper needs to be more complete than a conference paper:
+	there needs to be a better literature review; there needs
+	to be a more complete result; there needs to be a more
+	in-depth analysis of the result.  Understanding the difference
+	will help improve your converence paper reviews.
+
+    D. Don't be insulting, be positive.  Other review guidelines
+	usually state the former; I've never seen an insulting review,
+	but I guess it happens.  More of a problem is being positive:
+	the authors put a lot of effort into writing the paper and
+	will be sensitive to (and even insulted by) criticism.  So
+	phrase things positively.  In general, write your entire
+	review in a tone of having accepted a paper, even when
+	you're not recommending acceptance.  This will help change 
+	what you subconciously write as condemning criticism to 
+	helpful comments.
