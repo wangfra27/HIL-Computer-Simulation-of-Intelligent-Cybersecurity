@@ -1,1 +1,1 @@
-# HIL Computer Simulation of Intellegent Security
+# HIL Computer Simulation of Intelligent Security
