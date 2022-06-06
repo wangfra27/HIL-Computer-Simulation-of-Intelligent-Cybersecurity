@@ -1,10 +1,10 @@
 Progress Report 2 (6/5)
 Accomplishments: 
-Built webscrappers to download conference papers and updated the github accordingly
-Used suggestions from Cale to continue Carla build, Carla has completely been compiled
+Worked on webscrappers to download conference papers
+Used suggestions from Cale to continue Carla build, Carla has been compiled
 Ongoing: 
-Currntly compiling the server on UE4. Already spent 5 hours compiling
+Currently compiling the server on UE4. Already spent 5 hours compiling
 Problems: 
-Need to look into a correct way to download pdfs with a webscrappers, the one I had before wasn't translating the data correctly
+Need to look into a correct way to download pdfs with a webscrappers, the one I had before wasn't translating the data correctly (I have sent the code to Siddhant for review)
 Next Steps: 
 Need to connect OpenPilot to Carla through the existing bridge
