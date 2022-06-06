@@ -1,0 +1,10 @@
+key points:
+Proposed to generate adverserial patterns to be applied on vehicle surface so it is not recognizable by detectors in Carla
+Two types of attacks: digital (modifying input) and physical (ex. sticking a stop sign over a stop sign so a car can't recognize it)
+Previous studies vary in key factors: attack entry point/object, targeted task/model
+Tackle this by manipulating vehicle texture-
+ -enlarge and repeat method and discrete search attacking method
+ -found it easy to pose a non-negligible threat
+ -noticed that the clean cases showed better attacking results
+
+review:
