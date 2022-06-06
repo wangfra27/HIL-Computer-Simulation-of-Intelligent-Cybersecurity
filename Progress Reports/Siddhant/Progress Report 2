@@ -1,10 +1,17 @@
 Accomplishments:
 Organized Github repository
 Added folders for research paper related things
+Succesfully built server
 
 Ongoing:
-Working on building Carla successfully
+currently am rebuilding unreal engine. Simulation should start this time as building the server was the main problem holding it back from running successfully.
 
 Problems:
+None as of now. Am still working on web scraper to get papers.
 
 Next step:
+Finish web scraper.
+Read some more related to gain more knowledge.
+Run example program.
+Identify audit logs.
+Start phase 2.
