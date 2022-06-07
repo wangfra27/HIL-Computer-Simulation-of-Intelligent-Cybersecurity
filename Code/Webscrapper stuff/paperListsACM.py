@@ -1,3 +1,4 @@
+#Warning: may be behind paywall
 from typing import Text, final
 from urllib.request import urlopen
 from bs4.element import ProcessingInstruction
@@ -38,6 +39,8 @@ while True:
     search.send_keys(Keys.RETURN)
     driver.find_element(By.XPATH, "//span[@class='hlFld-Title']/a[1]").click()
     driver.find_element(By.XPATH, "//li[@class='pdf-file']/a[1]").click()
+    time.sleep(1)
+    driver.switch_to.window(driver.window_handles[1])
     link = driver.current_url
     #save the file
 
@@ -60,10 +63,12 @@ while True:
         location = ntitle.find('?')
 
     name = title + end
+    response = requests.get(link)
     print(link)
-    
+    file = open(name, 'wb')
+    file.write(response.content)
+    file.close()
     time.sleep(1)
-    driver.switch_to.window(driver.window_handles[1])
     driver.close()
     driver.switch_to.window(driver.window_handles[0])
 #move the file to the directory of choice
