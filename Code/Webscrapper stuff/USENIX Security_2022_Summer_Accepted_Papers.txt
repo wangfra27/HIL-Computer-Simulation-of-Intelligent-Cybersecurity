@@ -1,0 +1,339 @@
+Show details  ▸  
+Rapid Prototyping for Microarchitectural Attacks
+Catherine Easdon, Dynatrace Research and Graz University of Technology; Michael Schwarz, CISPA Helmholtz Center for Information Security; Martin Schwarzl and Daniel Gruss, Graz University of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Caring about Sharing: User Perceptions of Multiparty Data Sharing
+Bailey Kacsmar, Kyle Tilbury, Miti Mazmudar, and Florian Kerschbaum, University of Waterloo
+AVAILABLE MEDIA
+
+Show details  ▸  
+Spoki: Unveiling a New Wave of Scanners through a Reactive Network Telescope
+Raphael Hiesgen, HAW Hamburg; Marcin Nawrocki, Freie Universität Berlin; Alistair King, Kentik; Alberto Dainotti, CAIDA, UC San Diego and Georgia Institute of Technology; Thomas C. Schmidt, HAW Hamburg; Matthias Wählisch, Freie Universität Berlin
+AVAILABLE MEDIA
+
+Show details  ▸  
+Holistic Control-Flow Protection on Real-Time Embedded Systems with Kage
+Yufei Du, University of North Carolina at Chapel Hill; Zhuojia Shen, Komail Dharsee, and Jie Zhou, University of Rochester; Robert J. Walls, Worcester Polytechnic Institute; John Criswell, University of Rochester
+AVAILABLE MEDIA
+
+Show details  ▸  
+"I feel invaded, annoyed, anxious and I may protect myself": Individuals' Feelings about Online Tracking and their Protective Behaviour across Gender and Country
+Kovila P.L. Coopamootoo and Maryam Mehrnezhad, Newcastle University; Ehsan Toreini, Durham University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Mistrust Plugins You Must: A Large-Scale Study Of Malicious Plugins In WordPress Marketplaces
+Ranjita Pai Kasturi, Jonathan Fuller, Yiting Sun, Omar Chabklo, Andres Rodriguez, Jeman Park, and Brendan Saltaformaggio, Georgia Institute of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+On the Security Risks of AutoML
+Ren Pang and Zhaohan Xi, Pennsylvania State University; Shouling Ji, Zhejiang University; Xiapu Luo, Hong Kong Polytechnic University; Ting Wang, Pennsylvania State University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Morphuzz: Bending (Input) Space to Fuzz Virtual Devices
+Alexander Bulekov, Boston University and Red Hat; Bandan Das and Stefan Hajnoczi, Red Hat; Manuel Egele, Boston University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Towards More Robust Keyword Spotting for Voice Assistants
+Shimaa Ahmed, University of Wisconsin-Madison; Ilia Shumailov, University of Cambridge; Nicolas Papernot, University of Toronto and Vector Institute; Kassem Fawaz, University of Wisconsin-Madison
+AVAILABLE MEDIA
+
+Show details  ▸  
+Web Cache Deception Escalates!
+Seyed Ali Mirheidari, University of Trento & Splunk Inc.; Matteo Golinelli, University of Trento; Kaan Onarlioglu, Akamai Technologies; Engin Kirda, Northeastern University; Bruno Crispo, University of Trento
+AVAILABLE MEDIA
+
+Show details  ▸  
+Exploring the Unchartered Space of Container Registry Typosquatting
+Guannan Liu, Virginia Tech; Xing Gao, University of Delaware; Haining Wang, Virginia Tech; Kun Sun, George Mason University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Can one hear the shape of a neural network?: Snooping the GPU via Magnetic Side Channel
+Henrique Teles Maia and Chang Xiao, Columbia University; Dingzeyu Li, Adobe Research; Eitan Grinspun, Columbia University & University of Toronto; Changxi Zheng, Columbia University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Augmenting Decompiler Output with Learned Variable Names and Types
+Qibin Chen and Jeremy Lacomis, Carnegie Mellon University; Edward J. Schwartz, Carnegie Mellon University Software Engineering Institute; Claire Le Goues, Graham Neubig, and Bogdan Vasilescu, Carnegie Mellon University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Inference Attacks Against Graph Neural Networks
+Zhikun Zhang, Min Chen, and Michael Backes, CISPA Helmholtz Center for Information Security; Yun Shen, Norton Research Group; Yang Zhang, CISPA Helmholtz Center for Information Security
+AVAILABLE MEDIA
+
+Show details  ▸  
+LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution
+Jian Liu, {CAS-KLONAT, BKLONSPT}, Institute of Information Engineering, Chinese Academy of Sciences and School of Cyber Security, University of Chinese Academy of Sciences; Lin Yi, {CAS-KLONAT, BKLONSPT}, Institute of Information Engineering, Chinese Academy of Sciences; Weiteng Chen, Chenyu Song, and Zhiyun Qian, UC Riverside; Qiuping Yi, Beijing University of Posts and Telecommunications and Beijing Key Lab of Intelligent Telecommunication Software and Multimedia
+AVAILABLE MEDIA
+
+Show details  ▸  
+Total Eclipse of the Heart – Disrupting the InterPlanetary File System
+Bernd Prünster, Institute of Applied Information Processing and Communications (IAIK), Graz University of Technology; Alexander Marsalek, A-SIT Secure Information Technology Center Austria; Thomas Zefferer, A-SIT Plus GmbH
+AVAILABLE MEDIA
+
+Show details  ▸  
+Post-Quantum Cryptography with Contemporary Co-Processors: Beyond Kronecker, Schönhage-Strassen & Nussbaumer
+Joppe W. Bos, Joost Renes, and Christine van Vredendaal, NXP Semiconductors
+AVAILABLE MEDIA
+
+Show details  ▸  
+MAGE: Mutual Attestation for a Group of Enclaves without Trusted Third Parties
+Guoxing Chen, Shanghai Jiao Tong University; Yinqian Zhang, Southern University of Science and Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Debloating Address Sanitizer
+Yuchen Zhang, Stevens Institute of Technology; Chengbin Pang, Nanjing University; Georgios Portokalidis, Nikos Triandopoulos, and Jun Xu, Stevens Institute of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Synthetic Data – Anonymisation Groundhog Day
+Theresa Stadler, EPFL; Bristena Oprisanu, UCL; Carmela Troncoso, EPFL
+AVAILABLE MEDIA
+
+Show details  ▸  
+FReD: Identifying File Re-Delegation in Android System Services
+Sigmund Albert Gorski III, Seaver Thorn, and William Enck, North Carolina State University; Haining Chen, Google
+AVAILABLE MEDIA
+
+Show details  ▸  
+WebGraph: Capturing Advertising and Tracking Information Flows for Robust Blocking
+Sandra Siby, EPFL; Umar Iqbal, University of Iowa; Steven Englehardt, DuckDuckGo; Zubair Shafiq, UC Davis; Carmela Troncoso, EPFL
+AVAILABLE MEDIA
+
+Show details  ▸  
+Adversarial Detection Avoidance Attacks: Evaluating the robustness of perceptual hashing-based client-side scanning
+Shubham Jain, Ana-Maria Crețu, and Yves-Alexandre de Montjoye, Imperial College London
+AVAILABLE MEDIA
+
+Show details  ▸  
+Elasticlave: An Efficient Memory Model for Enclaves
+Jason Zhijingcheng Yu, National University of Singapore; Shweta Shinde, ETH Zurich; Trevor E. Carlson and Prateek Saxena, National University of Singapore
+AVAILABLE MEDIA
+
+Show details  ▸  
+Practical Data Access Minimization in Trigger-Action Platforms
+Yunang Chen and Mohannad Alhanahnah, University of Wisconsin–Madison; Andrei Sabelfeld, Chalmers University of Technology; Rahul Chatterjee and Earlence Fernandes, University of Wisconsin–Madison
+AVAILABLE MEDIA
+
+Show details  ▸  
+Bedrock: Programmable Network Support for Secure RDMA Systems
+Jiarong Xing, Kuo-Feng Hsu, Yiming Qiu, Ziyang Yang, Hongyi Liu, and Ang Chen, Rice University
+AVAILABLE MEDIA
+
+Show details  ▸  
+VerLoc: Verifiable Localization in Decentralized Systems
+Katharina Kohls, Radboud University Nijmegen; Claudia Diaz, imec-COSIC KU Leuven and Nym Technologies SA
+AVAILABLE MEDIA
+
+Show details  ▸  
+Lamphone: Passive Sound Recovery from a Desk Lamp's Light Bulb Vibrations
+Ben Nassi, Yaron Pirutin, and Raz Swisa, Ben-Gurion University of the Negev; Adi Shamir, Weizmann Institute of Science; Yuval Elovici and Boris Zadov, Ben-Gurion University of the Negev
+AVAILABLE MEDIA
+
+Show details  ▸  
+Automating Cookie Consent and GDPR Violation Detection
+Dino Bollinger, Karel Kubicek, Carlos Cotrini, and David Basin, ETH Zurich
+AVAILABLE MEDIA
+
+Show details  ▸  
+LTrack: Stealthy Tracking of Mobile Phones in LTE
+Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, and Srdjan Čapkun, ETH Zurich
+AVAILABLE MEDIA
+
+Show details  ▸  
+How to Abuse and Fix Authenticated Encryption Without Key Commitment
+Ange Albertini and Thai Duong, Google Research; Shay Gueron, University of Haifa and Amazon; Stefan Kölbl, Atul Luykx, and Sophie Schmieg, Google Research
+AVAILABLE MEDIA
+
+Show details  ▸  
+How Long Do Vulnerabilities Live in the Code? A Large-Scale Empirical Measurement Study on FOSS Vulnerability Lifetimes
+Nikolaos Alexopoulos, Manuel Brack, Jan Philipp Wagner, Tim Grube, and Max Mühlhäuser, Technical University of Darmstadt
+AVAILABLE MEDIA
+
+Show details  ▸  
+When Sally Met Trackers: Web Tracking From the Users' Perspective
+Savino Dambra, EURECOM, Norton Research Group; Iskander Sanchez-Rola and Leyla Bilge, Norton Research Group; Davide Balzarotti, EURECOM
+AVAILABLE MEDIA
+
+Show details  ▸  
+Regulator: Dynamic Analysis to Detect ReDoS
+Robert McLaughlin, Fabio Pagani, Noah Spahn, Christopher Kruegel, and Giovanni Vigna, University of California, Santa Barbara
+AVAILABLE MEDIA
+
+Show details  ▸  
+Incremental Offline/Online PIR
+Yiping Ma and Ke Zhong, University of Pennsylvania; Tal Rabin, University of Pennsylvania and Algorand Foundation; Sebastian Angel, University of Pennsylvania and Microsoft Research
+AVAILABLE MEDIA
+
+Show details  ▸  
+Dos and Don'ts of Machine Learning in Computer Security
+Daniel Arp, Technische Universität Berlin; Erwin Quiring, Technische Universität Braunschweig; Feargus Pendlebury, King's College London and Royal Holloway, University of London and The Alan Turing Institute; Alexander Warnecke, Technische Universität Braunschweig; Fabio Pierazzi, King's College London; Christian Wressnegger, KASTEL Security Research Labs and Karlsruhe Institute of Technology; Lorenzo Cavallaro, University College London; Konrad Rieck, Technische Universität Braunschweig
+AVAILABLE MEDIA
+
+Show details  ▸  
+Expected Exploitability: Predicting the Development of Functional Vulnerability Exploits
+Octavian Suciu, University of Maryland, College Park; Connor Nelson, Zhuoer Lyu, and Tiffany Bao, Arizona State University; Tudor Dumitraș, University of Maryland, College Park
+AVAILABLE MEDIA
+
+Show details  ▸  
+ProFactory: Improving IoT Security via Formalized Protocol Customization
+Fei Wang, Jianliang Wu, and Yuhong Nan, Purdue University; Yousra Aafer, University of Waterloo; Xiangyu Zhang and Dongyan Xu, Purdue University; Mathias Payer, EPFL
+AVAILABLE MEDIA
+
+Show details  ▸  
+Empirical Understanding of Deletion Privacy: Experiences, Expectations, and Measures
+Mohsen Minaei, Purdue University; Mainack Mondal, IIT Kharagpur; Aniket Kate, Purdue University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Hiding in Plain Sight? On the Efficacy of Power Side Channel-Based Control Flow Monitoring
+Yi Han, Matthew Chan, and Zahra Aref, Rutgers University; Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security; Saman Zonouz, Rutgers University
+AVAILABLE MEDIA
+
+Show details  ▸  
+FUGIO: Automatic Exploit Generation for PHP Object Injection Vulnerabilities
+Sunnyeo Park and Daejun Kim, KAIST; Suman Jana, Columbia University; Sooel Son, KAIST
+AVAILABLE MEDIA
+
+Show details  ▸  
+SAID: State-aware Defense Against Injection Attacks on In-vehicle Network
+Lei Xue, The Hong Kong Polytechnic University Shenzhen Research Institute; Yangyang Liu, Tianqi LI, Kaifa Zhao, Jianfeng Li, Le Yu, and Xiapu Luo, The Hong Kong Polytechnic University; Yajin Zhou, Zhejiang University; Guofei Gu, Texas A&M University
+AVAILABLE MEDIA
+
+Show details  ▸  
+A Large-scale Investigation into Geodifferences in Mobile Apps
+Renuka Kumar, Apurva Virkud, Ram Sundara Raman, Atul Prakash, and Roya Ensafi, University of Michigan
+AVAILABLE MEDIA
+
+Show details  ▸  
+Ferry: State-Aware Symbolic Execution for Exploring State-Dependent Program Paths
+Shunfan Zhou and Zhemin Yang, Fudan University; Dan Qiao, Fudan Unversity; Peng Liu, The Pennsylvania State University; Min Yang, Fudan University; Zhe Wang and Chenggang Wu, State Key Laboratory of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
+AVAILABLE MEDIA
+
+Show details  ▸  
+Polynomial Commitment with a One-to-Many Prover and Applications
+Jiaheng Zhang and Tiancheng Xie, UC Berkeley; Thang Hoang, Virginia Tech; Elaine Shi, CMU; Yupeng Zhang, Texas A&M University
+AVAILABLE MEDIA
+
+Show details  ▸  
+SGXLock: Towards Efficiently Establishing Mutual Distrust Between Host Application and Enclave for SGX
+Yuan Chen, Jiaqi Li, Guorui Xu, and Yajin Zhou, Zhejiang University; Zhi Wang, Florida State University; Cong Wang, City University of Hong Kong; Kui Ren, Zhejiang University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Omnes pro uno: Practical Multi-Writer Encrypted Database
+Jiafan Wang and Sherman S. M. Chow, The Chinese University of Hong Kong
+AVAILABLE MEDIA
+
+Show details  ▸  
+Secure Poisson Regression
+Mahimna Kelkar, Cornell Tech; Phi Hung Le, Mariana Raykova, and Karn Seth, Google
+AVAILABLE MEDIA
+
+Show details  ▸  
+Watching the Watchers: Practical Video Identification Attack in LTE Networks
+Sangwook Bae, Mincheol Son, Dongkwan Kim, CheolJun Park, Jiho Lee, Sooel Son, and Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
+AVAILABLE MEDIA
+
+Show details  ▸  
+Automated Side Channel Analysis of Media Software with Manifold Learning
+Yuanyuan Yuan, Qi Pang, and Shuai Wang, The Hong Kong University of Science and Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+FOAP: Fine-Grained Open-World Android App Fingerprinting
+Jianfeng Li, Hao Zhou, Shuohan Wu, and Xiapu Luo, The Hong Kong Polytechnic University; Ting Wang, Pennsylvania State University; Xian Zhan, The Hong Kong Polytechnic University; Xiaobo Ma, Xi'an Jiaotong University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Behind the Tube: Exploitative Monetization of Content on YouTube
+Andrew Chu, University of Chicago; Arjun Arunasalam, Muslum Ozgur Ozmen, and Z. Berkay Celik, Purdue University
+AVAILABLE MEDIA
+
+Show details  ▸  
+SkillDetective: Automated Policy-Violation Detection of Voice Assistant Applications in the Wild
+Jeffrey Young, Song Liao, and Long Cheng, Clemson University; Hongxin Hu, University at Buffalo; Huixing Deng, Clemson University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Hand Me Your PIN! Inferring ATM PINs of Users Typing with a Covered Hand
+Matteo Cardaioli, Stefano Cecconello, Mauro Conti, and Simone Milani, University of Padua; Stjepan Picek, Delft University of Technology; Eugen Saraci, University of Padua
+AVAILABLE MEDIA
+
+Show details  ▸  
+SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel
+Xiaochen Zou, Guoren Li, Weiteng Chen, Hang Zhang, and Zhiyun Qian, UC Riverside
+AVAILABLE MEDIA
+
+Show details  ▸  
+Label Inference Attacks Against Vertical Federated Learning
+Chong Fu, Zhejiang University; Xuhong Zhang and Shouling Ji, Binjiang Institute of Zhejiang University; Jinyin Chen, Zhejiang University of Technology; Jingzheng Wu, Institute of Software, Chinese Academy of Sciences; Shanqing Guo, Shandong University; Jun Zhou and Alex X. Liu, Ant Group; Ting Wang, Pennsylvania State University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Under the Hood of DANE Mismanagement in SMTP
+Hyeonmin Lee, Seoul National University; Md. Ishtiaq Ashiq, Virginia Tech; Moritz Müller, SIDN Labs; Roland van Rijswijk-Deij, University of Twente & NLnet Labs; Taekyoung "Ted" Kwon, Seoul National University; Taejoong Chung, Virginia Tech
+AVAILABLE MEDIA
+
+Show details  ▸  
+Lend Me Your Ear: Passive Remote Physical Side Channels on PCs
+Daniel Genkin, Georgia Tech; Noam Nissan, Tel Aviv University; Roei Schuster, Tel Aviv University and Cornell Tech; Eran Tromer, Tel Aviv University and Columbia University
+AVAILABLE MEDIA
+
+Show details  ▸  
+99% False Positives: A Qualitative Study of SOC Analysts' Perspectives on Security Alarms
+Bushra A. Alahmadi, Louise Axon, and Ivan Martinovic, University of Oxford
+AVAILABLE MEDIA
+
+Show details  ▸  
+Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing
+Tobias Scharnowski, Nils Bars, and Moritz Schloegel, Ruhr-Universität Bochum; Eric Gustafson, UC Santa Barbara; Marius Muench, Vrije Universiteit Amsterdam; Giovanni Vigna, UC Santa Barbara and VMware; Christopher Kruegel, UC Santa Barbara; Thorsten Holz and Ali Abbasi, Ruhr-Universität Bochum
+AVAILABLE MEDIA
+
+Show details  ▸  
+SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost
+Nishanth Chandran, Divya Gupta, and Sai Lakshmi Bhavana Obbattu, Microsoft Research; Akash Shah, UCLA
+AVAILABLE MEDIA
+
+Show details  ▸  
+HyperDegrade: From GHz to MHz Effective CPU Frequencies
+Alejandro Cabrera Aldaya and Billy Bob Brumley, Tampere University
+AVAILABLE MEDIA
+
+Show details  ▸  
+DoLTEst: In-depth Downlink Negative Testing Framework for LTE Devices
+CheolJun Park, Sangwook Bae, BeomSeok Oh, Jiho Lee, Eunkyu Lee, Insu Yun, and Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
+AVAILABLE MEDIA
+
+Show details  ▸  
+GhostTouch: Targeted Attacks on Touchscreens without Physical Touch
+Kai Wang, Zhejiang University; Richard Mitev, Technical University of Darmstadt; Chen Yan and Xiaoyu Ji, Zhejiang University; Ahmad-Reza Sadeghi, Technical University of Darmstadt; Wenyuan Xu, Zhejiang University
+AVAILABLE MEDIA
+
+Show details  ▸  
+RE-Mind: a First Look Inside the Mind of a Reverse Engineer
+Alessandro Mantovani and Simone Aonzo, EURECOM; Yanick Fratantonio, Cisco Talos; Davide Balzarotti, EURECOM
+AVAILABLE MEDIA
+
+Show details  ▸  
+RapidPatch: Firmware Hotpatching for Real-Time Embedded Devices
+Yi He and Zhenhua Zou, Tsinghua University and BNRist; Kun Sun, George Mason University; Zhuotao Liu and Ke Xu, Tsinghua University and BNRist; Qian Wang, Wuhan University; Chao Shen, Xi'an Jiaotong University; Zhi Wang, Florida State University; Qi Li, Tsinghua University and BNRist
+AVAILABLE MEDIA
+
+Show details  ▸  
+Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols
+Le Yu, Yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, and Kaifa Zhao, The Hong Kong Polytechnic University; Yajin Zhou, Zhejiang University; Ting Wang, The Pennsylvania State University; Guofei Gu, Texas A&M University; Sen Nie and Shi Wu, Tencent Keen Security Lab
+AVAILABLE MEDIA
+
+Show details  ▸  
+Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition
+Chen Yan, Zhejiang University; Zhijian Xu, Zhejiang University and The Chinese University of Hong Kong; Zhanyuan Yin, The University of Chicago; Xiaoyu Ji and Wenyuan Xu, Zhejiang University
+AVAILABLE MEDIA

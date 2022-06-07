@@ -1,0 +1,126 @@
+Internet of Robots or Things?
+Session chair: Ramin Sadre
+9:00 – 9:30
+Analysis and Mitigation of Function Interaction Risks in Robot Apps
+9:30 – 10:00
+An Investigation of Byzantine Threats in Multi-Robot Systems
+10:00 – 10:30
+SniffMislead: Non-Intrusive Privacy Protection against Wireless Packet Sniffers in Smart Homes
+
+Coffee Break
+
+What is all the fuzz about?
+Session chair: Davide Balzarotti
+11:00 – 11:30
+BSOD: Binary-only Scalable fuzzing Of device Drivers
+11:30 – 12:00
+LeanSym: Efficient Hybrid Fuzzing Through Conservative Constraint Debloating
+12:00 – 12:30
+UFuzzer: Lightweight Detection of PHP-Based Unrestricted File Upload Vulnerabilities Via Static-Fuzzing Co-Analysis
+
+Lunch
+
+At the core of everything
+Session chair: Igor Santos
+14:00 – 14:30
+SecureFS: A Secure File System for Intel SGX
+14:30 – 15:00
+BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Fasteriot
+15:00 – 15:30
+Fast Intra-kernel Isolation and Security with IskiOS
+15:30 – 16:00
+Encryption is Futile: Reconstructing 3D-Printed Models Using the Power Side-Channel
+
+Coffee Break
+
+Keynote
+16:30 – 17:30
+Riding the Fuzzing Hypetrain 
+Mathias Payer
+
+
+
+Thursday, 7 October 2021
+
+Reverse like you mean it!
+Session chair: Leyla Bilge
+9:00 – 9:30
+DisCo: Combining Disassemblers for Improved Performance
+9:30 – 10:00
+iTOP: Automating Counterfeit Object-Oriented Programming Attacks
+10:00 – 10:30
+Lost in the Loader: The Many Faces of the Windows PE File Format
+
+Coffee Break
+
+Detect it already!
+Session chair: Bum Jun Kwon
+11:00 – 11:30
+Crafting Adversarial Example to Bypass Flow-&ML- based Botnet Detector via RL
+11:30 – 12:00
+CADUE: Content-Agnostic Detection of Unwanted Emails for Enterprise Security
+12:00 – 12:30
+GrandDetAuto: Detecting Malicious Nodes in Large-Scale Autonomous Networks
+
+Lunch
+
+IoT everywhere anywhere
+Session chair: Urko Zurutuza
+14:00 – 14:30
+AttkFinder: Discovering Attack Vectors in PLC Programs using Information Flow Analysis
+14:30 – 15:00
+HandLock: Enabling 2-FA for Smart Home Voice Assistants using Inaudible Acoustic Signal
+15:00 – 15:30
+What Did You Add to My Additive Manufacturing Data?: Steganographic Attacks on 3D Printing Files
+15:30 – 16:00
+Practical Speech Re-use Prevention in Voice-driven Services
+
+Coffee Break
+
+Doesn’t exist if I don’t see it (!)
+Session chair: Iskander Sanchez
+16:30 – 17:00
+μSCOPE: A Methodology for Analyzing Least-Privilege Compartmentalization in Large Software Artifacts
+17:00 – 17:30
+The Service Worker Hiding in Your Browser: The Next Web Attack Target?
+17:30 – 18:00
+Designing Media Provenance Indicators to Combat Fake Media
+
+
+
+Friday, 8 October 2021
+
+Let’s measure a little!
+Session chair: Marc Dacier
+9:30 – 10:00
+Marked for Disruption: Tracing the Evolution of Malware Delivery Operations Targeted for Takedown
+10:00 – 10:30
+The Evolution of DNS-based Email Authentication: Measuring Adoption and Finding Flaws
+10:30 – 11:00
+Where We Stand (or Fall): An Analysis of CSRF Defenses in Web Frameworks
+
+Coffee Break
+
+Minestrone
+Session chair: Giancarlo Pellegrino
+11:30 – 12:00
+On the Usability (In)Security of In-App Browsing Interfaces in Mobile Apps
+12:00 – 12:30
+Stratosphere: Finding Vulnerable Cloud Storage Buckets
+12:30 – 13:00
+The Curse of Correlations for Robust Fingerprinting of Relational Databases
+
+Lunch
+
+Artificial or Organic Intelligence?
+Session chair: Yufel Han
+14:30 – 15:00
+Mini-Me, You Complete Me! Data-Driven Drone Security via DNN-based Approximate Computing
+15:00 – 15:30
+Living-Off -The-Land Command Detection Using Active Learning
+15:30 – 16:00
+SyML: Guiding Symbolic Execution Toward Vulnerable States Through Pattern Learning
+
+16:00 – 16:30
+Closing remarks
+
