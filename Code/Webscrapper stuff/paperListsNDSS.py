@@ -40,11 +40,12 @@ while True:
     search.send_keys(Keys.RETURN)
     driver.find_element(By.XPATH, "//div[@class='yuRUbf']/a[1]").click()
     driver.find_element(By.XPATH, "//div[@class='btn-group-vertical']/a[1]").click()
+    time.sleep(1)
     link = driver.current_url
     #save the file
 
     end = ".pdf"
-    ntitle = title
+    ntitle = title[:-1]
 
     location = ntitle.find('"')
     while (location != -1):
@@ -62,11 +63,11 @@ while True:
         location = ntitle.find('?')
 
     name = ntitle + end
-    print(name)
     response = requests.get(link)
-    with open(name, 'wb') as f:
-        f.write(response.content)
-    f.close()
+    print(link)
+    file = open(name, 'wb')
+    file.write(response.content)
+    file.close()
     time.sleep(1)
 #move the file to the directory of choice
 
