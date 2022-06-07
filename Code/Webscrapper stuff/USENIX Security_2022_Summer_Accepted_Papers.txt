@@ -1,3 +1,147 @@
+An Audit of Facebook's Political Ad Policy Enforcement
+Victor Le Pochat, imec-DistriNet, KU Leuven; Laura Edelson, New York University; Tom Van Goethem and Wouter Joosen, imec-DistriNet, KU Leuven; Damon McCoy and Tobias Lauinger, New York University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Helping hands: Measuring the impact of a large threat intelligence sharing community
+Xander Bouwman, Delft University of Technology; Victor Le Pochat, imec-DistriNet, KU Leuven; Pawel Foremski, Farsight Security, Inc. / IITiS PAN; Tom Van Goethem, imec-DistriNet, KU Leuven; Carlos H. Gañán, Delft University of Technology and ICANN; Giovane C. M. Moura, SIDN Labs; Samaneh Tajalizadehkhoob, ICANN; Wouter Joosen, imec-DistriNet, KU Leuven; Michel van Eeten, Delft University of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Back-Propagating System Dependency Impact for Attack Investigation
+Pengcheng Fang, Case Western Reserve University; Peng Gao, Virginia Tech; Changlin Liu and Erman Ayday, Case Western Reserve University; Kangkook Jee, University of Texas at Dallas; Ting Wang, Penn State University; Yanfang (Fanny) Ye, Case Western Reserve University; Zhuotao Liu, Tsinghua University; Xusheng Xiao, Case Western Reserve University
+AVAILABLE MEDIA
+
+Show details  ▸  
+SecSMT: Securing SMT Processors against Contention-Based Covert Channels
+Mohammadkazem Taram, University of California San Diego; Xida Ren and Ashish Venkat, University of Virginia; Dean Tullsen, University of California San Diego
+AVAILABLE MEDIA
+
+Show details  ▸  
+Increasing Adversarial Uncertainty to Scale Private Similarity Testing
+Yiqing Hua and Armin Namavari, Cornell Tech, Cornell University; Kaishuo Cheng, Cornell University; Mor Naaman and Thomas Ristenpart, Cornell Tech, Cornell University
+AVAILABLE MEDIA
+
+Show details  ▸  
+"How Do You Not Lose Friends?": Synthesizing a Design Space of Social Controls for Securing Shared Digital Resources Via Participatory Design Jams
+Eyitemi Moju-Igbene, Hanan Abdi, Alan Lu, and Sauvik Das, Georgia Institute of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers
+Yan Meng and Jiachun Li, Shanghai Jiao Tong University; Matthew Pillari, Arjun Deopujari, Liam Brennan, and Hafsah Shamsie, University of Virginia; Haojin Zhu, Shanghai Jiao Tong University; Yuan Tian, University of Virginia
+AVAILABLE MEDIA
+
+Show details  ▸  
+Aardvark: An Asynchronous Authenticated Dictionary with Applications to Account-based Cryptocurrencies
+Derek Leung, MIT CSAIL; Yossi Gilad, Hebrew University of Jerusalem; Sergey Gorbunov, University of Waterloo; Leonid Reyzin, Boston University; Nickolai Zeldovich, MIT CSAIL
+AVAILABLE MEDIA
+
+Show details  ▸  
+OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR
+Rahmadi Trimananda, Hieu Le, Hao Cui, and Janice Tran Ho, University of California, Irvine; Anastasia Shuba, Independent Researcher; Athina Markopoulou, University of California, Irvine
+AVAILABLE MEDIA
+
+Show details  ▸  
+Lumos: Identifying and Localizing Diverse Hidden IoT Devices in an Unfamiliar Environment
+Rahul Anand Sharma, Elahe Soltanaghaei, Anthony Rowe, and Vyas Sekar, Carnegie Mellon University
+AVAILABLE MEDIA
+
+Show details  ▸  
+AMD Prefetch Attacks through Power and Time
+Moritz Lipp and Daniel Gruss, Graz University of Technology; Michael Schwarz, CISPA Helmholtz Center for Information Security
+AVAILABLE MEDIA
+
+Show details  ▸  
+ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models
+Yugeng Liu, Rui Wen, Xinlei He, Ahmed Salem, Zhikun Zhang, and Michael Backes, CISPA Helmholtz Center for Information Security; Emiliano De Cristofaro, UCL; Mario Fritz and Yang Zhang, CISPA Helmholtz Center for Information Security
+AVAILABLE MEDIA
+
+Show details  ▸  
+Jenny: Securing Syscalls for PKU-based Memory Isolation Systems
+David Schrammel, Samuel Weiser, Richard Sadek, and Stefan Mangard, Graz University of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems
+Ce Zhou, Qiben Yan, and Yan Shi, Michigan State University; Lichao Sun, Lehigh University
+AVAILABLE MEDIA
+
+Show details  ▸  
+PrivGuard: Privacy Regulation Compliance Made Easier
+Lun Wang, UC Berkeley; Usmann Khan, Georgia Tech; Joseph Near, University of Vermont; Qi Pang, Zhejiang University; Jithendaraa Subramanian, NIT Tiruchirappalli; Neel Somani, UC Berkeley; Peng Gao, Virginia Tech; Andrew Low and Dawn Song, UC Berkeley
+AVAILABLE MEDIA
+
+Show details  ▸  
+DeepDi: Learning a Relational Graph Convolutional Network Model on Instructions for Fast and Accurate Disassembly
+Sheng Yu, University of California Riverside and Deepbits Technology Inc.; Yu Qu, University of California Riverside; Xunchao Hu, Deepbits Technology Inc.; Heng Yin, University of California Riverside and Deepbits Technology Inc.
+AVAILABLE MEDIA
+
+Show details  ▸  
+Understanding and Improving Usability of Data Dashboards for Simplified Privacy Control of Voice Assistant Data
+Vandit Sharma and Mainack Mondal, Indian Institute of Technology Kharagpur
+AVAILABLE MEDIA
+
+Show details  ▸  
+A Large-scale Temporal Measurement of Android Malicious Apps: Persistence, Migration, and Lessons Learned
+Yun Shen and Pierre-Antoine Vervier, Norton Research Group; Gianluca Stringhini, Boston University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Midas: Systematic Kernel TOCTTOU Protection
+Atri Bhattacharyya, EPFL; Uros Tesic, Nvidia; Mathias Payer, EPFL
+AVAILABLE MEDIA
+
+Show details  ▸  
+Repurposing Segmentation as a Practical LVI-NULL Mitigation in SGX
+Lukas Giner, Andreas Kogler, and Claudio Canella, Graz University of Technology; Michael Schwarz, CISPA Helmholtz Center for Information Security; Daniel Gruss, Graz University of Technology
+AVAILABLE MEDIA
+
+Show details  ▸  
+Orca: Blocklisting in Sender-Anonymous Messaging
+Nirvan Tyagi and Julia Len, Cornell University; Ian Miers, University of Maryland; Thomas Ristenpart, Cornell Tech
+AVAILABLE MEDIA
+
+Show details  ▸  
+Rendering Contention Channel Made Practical in Web Browsers
+Shujiang Wu and Jianjia Yu, Johns Hopkins University; Min Yang, Fudan University; Yinzhi Cao, Johns Hopkins University
+AVAILABLE MEDIA
+
+Show details  ▸  
+OpenSSLNTRU: Faster post-quantum TLS key exchange
+Daniel J. Bernstein, University of Illinois at Chicago and Ruhr University Bochum; Billy Bob Brumley, Tampere University; Ming-Shing Chen, Ruhr University Bochum; Nicola Tuveri, Tampere University
+AVAILABLE MEDIA
+
+Show details  ▸  
+"OK, Siri" or "Hey, Google": Evaluating Voiceprint Distinctiveness via Content-based PROLE Score
+Ruiwen He, Xiaoyu Ji, and Xinfeng Li, Zhejiang University; Yushi Cheng, Tsinghua University; Wenyuan Xu, Zhejiang University
+AVAILABLE MEDIA
+
+Show details  ▸  
+PISTIS: Trusted Computing Architecture for Low-end Embedded Systems
+Michele Grisafi, University of Trento; Mahmoud Ammar, Huawei Technologies; Marco Roveri and Bruno Crispo, University of Trento
+AVAILABLE MEDIA
+
+Show details  ▸  
+Stick It to The Man: Correcting for Non-Cooperative Behavior of Subjects in Experiments on Social Networks
+Kaleigh Clary, University of Massachusetts Amherst; Emma Tosch and Jeremiah Onaolapo, University of Vermont; David D. Jensen, University of Massachusetts Amherst
+AVAILABLE MEDIA
+
+Show details  ▸  
+Mining Node.js Vulnerabilities via Object Dependence Graph and Query
+Song Li and Mingqing Kang, Johns Hopkins University; Jianwei Hou, Johns Hopkins University/Renmin University of China; Yinzhi Cao, Johns Hopkins University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Security and Privacy Perceptions of Third-Party Application Access for Google Accounts
+David G. Balash, Xiaoyuan Wu, and Miles Grant, The George Washington University; Irwin Reyes, Two Six Technologies; Adam J. Aviv, The George Washington University
+AVAILABLE MEDIA
+
+Show details  ▸  
+Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World
+Giovanni Cherubin, Alan Turing Institute; Rob Jansen, U.S. Naval Research Laboratory; Carmela Troncoso, EPFL SPRING Lab
+AVAILABLE MEDIA
+
 Show details  ▸  
 Rapid Prototyping for Microarchitectural Attacks
 Catherine Easdon, Dynatrace Research and Graz University of Technology; Michael Schwarz, CISPA Helmholtz Center for Information Security; Martin Schwarzl and Daniel Gruss, Graz University of Technology
@@ -337,3 +481,5 @@ Show details  ▸
 Rolling Colors: Adversarial Laser Exploits against Traffic Light Recognition
 Chen Yan, Zhejiang University; Zhijian Xu, Zhejiang University and The Chinese University of Hong Kong; Zhanyuan Yin, The University of Chicago; Xiaoyu Ji and Wenyuan Xu, Zhejiang University
 AVAILABLE MEDIA
+
+Show details  ▸  
