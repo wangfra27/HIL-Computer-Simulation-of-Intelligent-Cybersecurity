@@ -1,0 +1,147 @@
+Found: Adversarial Examples for Proof-of-Learning 
+Not found: "Desperate Times Call for Desperate Measures": User Concerns with Mobile Loan Apps in Kenya 
+Not found: "Flawed, but like democracy we don't have a better system": The Experts' Insights on the Peer Review Process of Evaluating Security Papers 
+Not found: "They're not that hard to mitigate": What Cryptographic Library Developers Think About Timing Attacks 
+Not found: 27 Years and 81 Million Opportunities Later: Investigating the Use of Email Encryption for an Entire University 
+Not found: A Formal Security Analysis of the W3C Web Payment APIs: Attacks and Verification 
+Not found: A Logic and an Interactive Prover for the Computational Post-Quantum Security of Protocols 
+Not found: A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities 
+Not found: A Systematic Look at Ciphertext Side Channels on AMD SEV-SNP 
+Not found: AccEar: Accelerometer Acoustic Eavesdropping with Unconstrained Vocabulary 
+Found: Adversarial Prefetch New Cross-Core Cache Side Channel Attacks 
+Not found: Analyzing Ground-Truth Data of Mobile Gambling Scam 
+Not found: Annotating, Tracking, and Protecting Cryptographic Secrets with CryptoMPK 
+Found: Anti-Tamper Radio System-Level Tamper Detection for Computing Systems 
+Found: Are We There Yet Timing and Floating-Point Attacks on Differential Privacy Systems 
+Found: Asleep at the Keyboard Assessing the Security of GitHub Copilot's Code Contributions 
+Found: Attacks on Wireless Coexistence 
+Not found: Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest 
+Found: Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents 
+Not found: BEACON : Directed Grey-Box Fuzzing with Provable Path Pruning 
+Found: Back to the Drawing Board A Critical Evaluation of Poisoning Attacks on Federated Learning 
+Found: Bad Characters Imperceptible NLP Attacks 
+Found: BadEncoder Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning 
+Not found: Blacksmith: Compromising Target Row Refresh by Rowhammering in the Frequency Domain 
+Not found: COBRA: Dynamic Proactive Secret Sharing for Confidential BFT Services 
+Found: Cats vs. Spectre An Axiomatic Approach to Modeling Speculative Execution Attacks 
+Not found: CirC: Compiler infrastructure for proof systems, software verification, and more 
+Not found: Committed to Trust: A Qualitative Study on Security & Trust in Open Source Software Projects 
+Found: Copy, Right A Testing Framework for Copyright Protection of Deep Learning Models 
+Not found: DEPCOMM: Graph Summarization on System Audit Logs for Attack Investigation 
+Not found: DeepCASE: Semi-Supervised Contextual Analysis of Security Events 
+Not found: DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification 
+Found: DeepSteal Advanced Model Extractions Leveraging Efficient Weight Stealing in Memories 
+Not found: Delay Wreaks Havoc on Your Smart Home: Delay-based Automation Interference Attacks 
+Not found: Deployment of Source Address Validation by Network Operators: A Randomized Control Trial 
+Not found: Device Fingerprinting with Peripheral Timestamps 
+Not found: Differential Privacy and Swapping: Examining De-Identification's Impact on Minority Representation and Privacy Preservation in the U.S. Census 
+Found: Differentially Private Histograms in the Shuffle Model from Fake Users 
+Not found: Domains Do Change Their Spots: Quantifying Potential Abuse of Residual Trust 
+Found: Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis 
+Not found: Evaluating Physical-Layer BLE Location Tracking Attacks on Mobile Devices 
+Not found: Exploit the Last Straw That Breaks Android Systems 
+Not found: Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices 
+Not found: FSAFlow: Lightweight and Fast Dynamic Path Tracking and Control for Privacy Protection on Android Using Hybrid Analysis with State-Reduction Strategy 
+Not found: Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis 
+Not found: Finding and Exploiting CPU Features using MSR Templating 
+Not found: Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities 
+Found: Foundations of Dynamic BFT 
+Not found: Four Attacks and a Proof for Telegram 
+Not found: FuzzUSB: Hybrid Stateful Fuzzing of USB Gadget Stacks 
+Not found: GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs 
+Not found: Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis 
+Not found: Graphics Peeping Unit: Exploiting EM Side-Channel Information of GPUs to Eavesdrop on Your Neighbors 
+Not found: HAMRAZ: Resilient Partitioning and Replication 
+Not found: HardLog: Practical Tamper-Proof System Auditing Using a Novel Audit Device 
+Not found: Hardening Circuit-Design IP Against Reverse-Engineering Attacks 
+Not found: Hark: A Deep Learning System for Navigating Privacy Feedback at Scale 
+Not found: Heapster: Analyzing the Security of Dynamic Allocators for Monolithic Firmware Images 
+Not found: How Does Usable Security (Not) End Up in Software Products? Results From a Qualitative Interview Study 
+Found: How Not to Protect Your IP - An Industry-Wide Break of IEEE 1735 Implementations 
+Not found: How to Attack and Generate Honeywords 
+Not found: IRQDebloat: Reducing Driver Attack Surface in Embedded Devices 
+Found: IRShield A Countermeasure Against Adversarial Physical-Layer Wireless Sensing 
+Not found: Investigating Influencer VPN Ads on YouTube 
+Not found: Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices 
+Not found: IronMask: Versatile Verification of Masking Security 
+Not found: Jigsaw: Efficient and Scalable Path Constraints Fuzzing 
+Found: LinkTeller Recovering Private Edges from Graph Neural Networks via Influence Analysis 
+Found: Locally Differentially Private Sparse Vector Aggregation 
+Not found: Low-Bandwidth Threshold ECDSA via Pseudorandom Correlation Generators 
+Not found: MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments 
+Found: Measuring and Mitigating the Risk of IP Reuse on Public Clouds 
+Found: Membership inference attacks from first principles 
+Not found: MeshUp: Stateless Cache Side-channel Attack on CPU Mesh 
+Not found: Mind the Gap: Studying the Insecurity of Provably Secure Embedded Trusted Execution Architectures 
+Found: Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation 
+Not found: Model Orthogonalization: Class Distance Hardening in Neural Networks for Better Security 
+Found: Model Stealing Attacks Against Inductive Graph Neural Networks 
+Not found: Multi-Server Verifiable Computation of Low-Degree Polynomials 
+Not found: Noise-SDR: Arbitrary Modulation of Electromagnetic Noise from Unprivileged Software and Its Impact on Emission Security 
+Not found: Noise: A Library of Verified High-Performance Secure Channel Protocol Implementations 
+Not found: PATA: Fuzzing with Path Aware Taint Analysis 
+Not found: PCR-Auth: Solving Authentication Puzzle Challenges with Encoded Palm Contact Responses 
+Not found: PGPATCH: Policy-Guided Logic Bug Patching for Robotic Vehicles 
+Not found: PICCOLO: Exposing Complex Backdoors in NLP Transformer Models 
+Not found: PROTRR: Principled yet Optimal In-DRAM Target Row Refresh 
+Found: Peekaboo A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes 
+Found: Phishing in Organizations Findings from a Large-Scale and Long-Term Study 
+Found: Practical Asynchronous Distributed Key Generation 
+Not found: Practical EMV Relay Protection 
+Found: Privacy-from-Birth Protecting Sensed Data from Malicious Sensors with VERSA 
+Not found: Private Nearest Neighbor Search with Sublinear Communication and Malicious Security 
+Not found: ProVerif with Lemmas, Induction, Fast Subsumption, and Much More 
+Found: Property Inference from Poisoning 
+Not found: Publicly Accountable Robust Multi-Party Computation 
+Not found: Quantifying Blockchain Extractable Value:How dark is the forest? 
+Not found: RT-TEE: Real-time System Availability for Cyber-physical Systems using ARM TrustZone 
+Found: Reconstructing Training Data with Informed Adversaries 
+Found: Repairing DoS Vulnerability of Real-World Regexes 
+Not found: Robbery on DevOps: Understanding and Mitigating Illicit Cryptomining on Continuous Integration Service Platforms 
+Found: SAILFISH Vetting Smart Contract State-Inconsistency Bugs in Seconds 
+Not found: SIRAJ: A Unified Framework for Aggregation of Malicious Entity Detectors 
+Not found: SMILE: Secure Memory Introspection for Live Enclave 
+Not found: SNARKBlock: Federated Anonymous Blocklisting from Hidden Common Input Aggregate Proofs 
+Not found: SPURT: Scalable Distributed Randomness Beacon with Transparent Setup 
+Not found: SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros 
+Not found: Sabre: Sender-Anonymous Messaging with Fast Audits 
+Not found: Scraping Sticky Leftovers: App User Information Left on Servers After Account Deletion 
+Not found: SecFloat: Accurate Floating-Point meets Secure 2-Party Computation 
+Not found: Security Analysis of the MLS Key Derivation 
+Not found: Security Foundations for Application-Based Covert Communication Channels 
+Not found: ShadeWatcher: Recommendation-guided Cyber Threat Analysis using System Audit Records 
+Found: ShorTor Improving Tor Network Latency via Multi-hop Overlay Routing 
+Found: SoK A Framework for Unifying At-Risk User Research 
+Not found: SoK: Authentication in Augmented and Virtual Reality 
+Not found: SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications 
+Not found: SoK: How Robust is Image Classification Deep Neural Network Watermarking? 
+Found: SoK Practical Foundations for Software Spectre Defenses 
+Not found: SoK: Social Cybersecurity 
+Not found: SoK: The Dual Nature of Technology in Sexual Assault 
+Not found: SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks 
+Not found: Sphinx: Enabling Privacy-Preserving Online Learning over the Cloud 
+Found: Spinning Language Models Risks of Propaganda-as-a-Service and Countermeasures 
+Not found: Spiral: Fast, High-Rate Single-Server PIR via FHE Composition 
+Not found: Spook.js: Attacking Chrome Strict Site Isolation via Speculative Execution 
+Found: Statistical Quantification of Differential Privacy A Local Approach 
+Not found: Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense 
+Not found: SwarmFlawFinder: Discovering and Exploiting Logic Flaws of Swarm Algorithms 
+Not found: TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems 
+Not found: TROLLMAGNIFIER: Detecting State-Sponsored Troll Accounts on Reddit? 
+Not found: The State of the SameSite: Studying the Usage, Effectiveness, and Adequacy of SameSite Cookies 
+Not found: Time-Print: Authenticating USB Flash Drives with Novel Timing Fingerprints 
+Not found: Timing-Based Browsing Privacy Vulnerabilities Via Site Isolation 
+Not found: Towards Automated Auditing for Account and Session Management Flaws in Single Sign-On Deployments 
+Found: Transcending TRANSCEND Revisiting Malware Classification in the Presence of Concept Drift 
+Found: Transfer Attacks Revisited A Large-Scale Empirical Study in Real Computer Vision Settings 
+Found: Universal 3-Dimensional Perturbations for Black-Box Attacks on Video Recognition Systems 
+Not found: Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains 
+Found: Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains 
+Not found: WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens 
+Not found: Waldo: A Private Time-Series Database from Function Secret-Sharing 
+Found: Why Crypto-detectors Fail A Systematic Evaluation of Cryptographic Misuse Detection Techniques 
+Not found: Wobfuscator: Obfuscating JavaScript Malware via Opportunistic Translation to WebAssembly 
+Not found: WtaGraph: Web Tracking and Advertising Detection using Graph Neural Networks 
+Not found: ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs 
+Not found: mmSpy: Spying Phone Calls using mmWave Radars 
+Not found: vSGX: Virtualizing SGX Enclaves on AMD SEV 
