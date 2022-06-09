@@ -1,0 +1,20 @@
+"Desperate Times Call for Desperate Measures": User Concerns with Mobile Loan Apps in Kenya 
+A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities 
+DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification 
+Differential Privacy and Swapping: Examining De-Identification's Impact on Minority Representation and Privacy Preservation in the U.S. Census 
+Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis 
+Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis 
+How Does Usable Security (Not) End Up in Software Products? Results From a Qualitative Interview Study 
+How to Attack and Generate Honeywords 
+Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices 
+Multi-Server Verifiable Computation of Low-Degree Polynomials 
+PCR-Auth: Solving Authentication Puzzle Challenges with Encoded Palm Contact Responses 
+Private Nearest Neighbor Search with Sublinear Communication and Malicious Security 
+SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros 
+Sabre: Sender-Anonymous Messaging with Fast Audits 
+Security Foundations for Application-Based Covert Communication Channels 
+SoK: The Dual Nature of Technology in Sexual Assault 
+Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense 
+WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens 
+mmSpy: Spying Phone Calls using mmWave Radars 
+vSGX: Virtualizing SGX Enclaves on AMD SEV 
