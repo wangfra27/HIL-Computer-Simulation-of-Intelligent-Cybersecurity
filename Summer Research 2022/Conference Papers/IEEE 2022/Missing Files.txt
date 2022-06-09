@@ -1,0 +1,28 @@
+"Desperate Times Call for Desperate Measures": User Concerns with Mobile Loan Apps in Kenya 
+A Secret-Free Hypervisor: Rethinking Isolation in the Age of Speculative Vulnerabilities 
+A Systematic Look at Ciphertext Side Channels on AMD SEV-SNP 
+DeepCoFFEA: Improved Flow Correlation Attacks on Tor via Metric Learning and Amplification 
+Differential Privacy and Swapping: Examining De-Identification's Impact on Minority Representation and Privacy Preservation in the U.S. Census 
+Exploit the Last Straw That Breaks Android Systems 
+Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices 
+FSAFlow: Lightweight and Fast Dynamic Path Tracking and Control for Privacy Protection on Android Using Hybrid Analysis with State-Reduction Strategy 
+Finding SMM Privilege-Escalation Vulnerabilities in UEFI Firmware with Protocol-Centric Static Analysis 
+Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis 
+How Does Usable Security (Not) End Up in Software Products? Results From a Qualitative Interview Study 
+How to Attack and Generate Honeywords 
+Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices 
+Multi-Server Verifiable Computation of Low-Degree Polynomials 
+PCR-Auth: Solving Authentication Puzzle Challenges with Encoded Palm Contact Responses 
+Private Nearest Neighbor Search with Sublinear Communication and Malicious Security 
+SIRAJ: A Unified Framework for Aggregation of Malicious Entity Detectors 
+SYMBEXCEL: Automated Analysis and Understanding of Malicious Excel 4.0 Macros 
+Sabre: Sender-Anonymous Messaging with Fast Audits 
+Security Foundations for Application-Based Covert Communication Channels 
+SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications 
+SoK: The Dual Nature of Technology in Sexual Assault 
+SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks 
+Surakav: Generating Realistic Traces for a Strong Website Fingerprinting Defense 
+TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems 
+WIGHT: Wired Ghost Touch Attack on Capacitive Touchscreens 
+mmSpy: Spying Phone Calls using mmWave Radars 
+vSGX: Virtualizing SGX Enclaves on AMD SEV 
