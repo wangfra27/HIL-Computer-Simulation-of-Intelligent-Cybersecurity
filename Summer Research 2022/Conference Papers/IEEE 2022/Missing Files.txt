@@ -1,8 +1,0 @@
-A Systematic Look at Ciphertext Side Channels on AMD SEV-SNP 
-Exploit the Last Straw That Breaks Android Systems 
-Exposed Infrastructures: Discovery, Attacks and Remediation of Insecure ICS Remote Management Devices 
-FSAFlow: Lightweight and Fast Dynamic Path Tracking and Control for Privacy Protection on Android Using Hybrid Analysis with State-Reduction Strategy 
-SIRAJ: A Unified Framework for Aggregation of Malicious Entity Detectors 
-SoK: Demystifying Binary Lifters Through the Lens of Downstream Applications 
-SpecHammer: Combining Spectre and Rowhammer for New Speculative Attacks 
-TASHAROK: Using Mechanism Design for Enhancing Security Resource Allocation in Interdependent Systems 
