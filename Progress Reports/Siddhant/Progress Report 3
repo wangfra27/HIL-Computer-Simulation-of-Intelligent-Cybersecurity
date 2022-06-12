@@ -1,0 +1,19 @@
+Accomplishments:
+Successfully installed Carla without error on my computer. Doesn't yet work since I don't have the proper specs to run it but there were no errors, the process just killed itself.
+Successfully installed Gym on both my personal computer and the computer in the lab
+Successfully ran a program on Gym on both my personal computer and the computer in the lab
+Got 1 reinforcement learning algorithm running successfully using Gym on the computer in the lab.
+Finished review of paper: "Hidden Backdoors in Human-Centric Language Models"
+
+Ongoing:
+Installation of Carla on the computer in the lab
+Researching Reinforcement Learning
+Trying to run more Reinforcement Learning Algorithms using Gym
+
+Problems:
+Installation of Carla was halted as there was not enough disk space on the computer. We used the exact same process as the one that worked for me.
+
+Next step:
+Figure out a way to get more disk space and finish the installation of Carla
+Get more algorithms running in Gym
+Do more research and maybe read a "reinforcement learning" related paper for this week
