@@ -15,6 +15,7 @@ Successfully ran three simulations using stable-baselines repository on gym envi
   ![mdpend](https://user-images.githubusercontent.com/73855373/173290741-0c955f25-7125-49e1-bdd8-c06c92af6018.gif)
 
 ### SAC(Soft Actor-Critic) Research 
+  * Finished SAC presentation on google slides
   * [On vs. off policy](https://leimao.github.io/blog/RL-On-Policy-VS-Off-Policy/)
   * [Equations and Pseudocode](https://spinningup.openai.com/en/latest/algorithms/sac.html)
   
