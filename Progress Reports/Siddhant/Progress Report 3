@@ -2,8 +2,9 @@ Accomplishments:
 Successfully installed Carla without error on my computer. Doesn't yet work since I don't have the proper specs to run it but there were no errors, the process just killed itself.
 Successfully installed Gym on both my personal computer and the computer in the lab
 Successfully ran a program on Gym on both my personal computer and the computer in the lab
-Got 1 reinforcement learning algorithm running successfully using Gym on the computer in the lab.
+Got 1 reinforcement learning algorithm running successfully using Gym on the computer in the lab. It is a simple Q Learning algorithm (not deep learning). Does not use Stable Baselines.
 Finished review of paper: "Hidden Backdoors in Human-Centric Language Models"
+Finished Presentation on the A2C algorithm, a variant of the Advantage Actor Critic algorithm.
 
 Ongoing:
 Installation of Carla on the computer in the lab
