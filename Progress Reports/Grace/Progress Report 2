@@ -10,4 +10,5 @@ Successfully ran three simulations using stable-baselines repository on gym envi
   * [On vs. off policy] (https://leimao.github.io/blog/RL-On-Policy-VS-Off-Policy/)
   * [Equations and Pseudocode] (https://spinningup.openai.com/en/latest/algorithms/sac.html)
   
-### Next
+### Current Issues
+  * Mac does not fulfill CARLA installation prerequisistes
