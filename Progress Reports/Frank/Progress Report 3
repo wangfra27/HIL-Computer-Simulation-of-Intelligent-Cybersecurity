@@ -1,0 +1,11 @@
+Progress Report 3 (6/12)
+Accomplishments: 
+Completely finished downloading papers, organized all the papers within the folders
+Finished presentation on Deep Deterministic Policy Gradient
+Ongoing: 
+Compiling Carla on Linux servers in lab
+Problems: 
+While compiling URE4 on the Linux computer, we completely ran out of disk space and the VM paused. We will have to partition more space to the VM, though we have 
+concerns about disk usage on the computer.
+Next Steps: 
+Need to connect OpenPilot to Carla through the existing bridge
