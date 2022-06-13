@@ -9,7 +9,7 @@ Successfully ran three simulations using stable-baselines repository on gym envi
  
   ![parking-env](https://user-images.githubusercontent.com/73855373/173289180-e077ebd9-b1b0-4dd1-9888-3956fb4031f7.gif)
   
-  The above two gifs are drawn from [Stable Baselines3 Docs] (https://stable-baselines3.readthedocs.io/en/master/guide/examples.html)
+  The above two gifs are drawn from [Stable Baselines3 Docs](https://stable-baselines3.readthedocs.io/en/master/guide/examples.html)
   * Pendulum Simulation
   
   ![mdpend](https://user-images.githubusercontent.com/73855373/173290741-0c955f25-7125-49e1-bdd8-c06c92af6018.gif)
