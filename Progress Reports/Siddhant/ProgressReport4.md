@@ -9,6 +9,7 @@
 
 * Succesfully implemented a DQN algorithm for the drone within the Blocks environment
 
+![AirsimSimpleDroneDqnDemonstration](https://user-images.githubusercontent.com/52840861/174494549-17a4541f-0977-4a65-84e9-7b23c50cccbf.gif)
 
 
 ## Problems:
