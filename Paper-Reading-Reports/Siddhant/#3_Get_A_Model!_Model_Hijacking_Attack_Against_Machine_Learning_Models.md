@@ -48,7 +48,7 @@ This article has taught me a lot about security risks and ethical concerns relat
 The Adverse Chameleon attack was not particularly great but the Chameleon attack did prove to be quite effective. However, the two attacks as a whole did not feel particularly radical. 
 
 # Future Direction of this Research
-There were multiple possible defenses against the model hijacking attack stated within the paper. Though they were quite effective at stopping the attacks, they also lowered the usability of the target model in and of itself. Researching different defense techniques to provide a better trade off would be a good. 
+There were multiple possible defenses against the model hijacking attack stated within the paper. Though they were quite effective at stopping the attacks, they also lowered the usability of the target model in and of itself. Researching different defense techniques to provide a better trade off would be a good direction to take. 
 
 In the future, the principles behind the Chameleon attack could also be applied in some other case other than just vision based machine learning models. For example, [this paper](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Summer%20Research%202022/Conference%20Papers/ACM_CCS_2021/Hidden%20Backdoors%20in%20Human-Centric%20Language%20Models.pdf) on Backdoors in Human-Centric Language Models. Instead of providing carefully crafted trigger sentences, we could use the principles behind the model haijack attack to instead stealthily provide poisoned data to a model while it is training to mess with the model itself.
 
