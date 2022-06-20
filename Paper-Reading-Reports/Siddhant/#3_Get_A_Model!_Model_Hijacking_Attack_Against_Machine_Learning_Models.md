@@ -45,7 +45,7 @@ This article has taught me a lot about security risks and ethical concerns relat
 * First experience with many of the mentioned datasets
 * Deepened my understanding of Federated Learning
 
-The Adverse Chameleon attack was not particularly great but the Chameleon attack did prove to be quite effective. The two attacks as a whole did not feel particularly radical. 
+The Adverse Chameleon attack was not particularly great but the Chameleon attack did prove to be quite effective. However, the two attacks as a whole did not feel particularly radical. 
 
 # Future Direction of this Research
 There were multiple possible defenses against the model hijacking attack stated within the paper. Though they were quite effective at stopping the attacks, they also lowered the usability of the target model in and of itself. Researching different defense techniques to provide a better trade off would be a good. 
