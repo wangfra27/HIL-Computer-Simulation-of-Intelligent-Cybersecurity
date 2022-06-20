@@ -36,7 +36,7 @@ As stated above, the Chameleon attack only when the hijacking and the target dat
 The Adverse Chameleon attack achieved 73.7% accuracy on the CIFAR-10 testing dataset when camouflaging CelebA to hijack CIFAR-10 classification model. For the opposite case, the attack has a 56.8% accuracy. Not great but it is better than guessing. 
 
 ## Conclusion
-In short, this new type of attack we proposed can cause severe security and accountability risks. The hijacked model's owner could be framed for the illegal and unethical task their model is capable of.
+In short, this new type of attack we proposed can cause severe security and accountability risks. Moreover, the hijacked model's owner could be framed for the illegal and unethical task their model is capable of.
 
 
 
