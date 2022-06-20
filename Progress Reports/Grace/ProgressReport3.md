@@ -3,6 +3,7 @@
   * Learned to use a yaml file
   * Became familiar with Jupyter Notebooks
   * Learned how to save and reload trained models
+  * Watched tutorial for building [Mario AI](https://www.youtube.com/watch?v=2eeYqJ0uBKE)
   * Successfully integrated Mario environment with PPO from Stable-Baselines3
 
 Import Mario gym environment by installing gym_super_mario_bros. Nes_py is used to emulate the environment by imitating controls from a NES joypad, essentially giving the model a range of actions.
@@ -56,3 +57,6 @@ When comparing this to the raw environment where the model does random actions, 
   
 ## Future Goals
   * Become more familiar with AirSim and Carla
+
+## Questions
+  * What is the function of wrappers?
