@@ -15,6 +15,7 @@ best result.
 
 ## Results
 The model that the study is compared to other previous models, and it is clear that this model is very competitive with others in identifying known attacks. 
+
 <img width="491" alt="image" src="https://user-images.githubusercontent.com/73855373/174667698-cb06a217-1b17-4d79-a40a-ef162939864b.png">
 
 The F1 score is an indicator of how well the model can accurately make prediction by combining the metrics "precision" and "recall".
