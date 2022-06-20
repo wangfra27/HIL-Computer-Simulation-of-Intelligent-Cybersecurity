@@ -10,6 +10,7 @@ Main takeaways:
  
 Strengths:
   * The Methodology returned good results about the use of email encryption with precise statistics and a deep analysis of the meaning behind the results. They also delve deeper in a lot of subjects analyzing deeper than originally outlined, or would be necessary (eg. when they looked into the use of insecure keys). 
+
 Weaknesses: 
   * The study does acknowledge that there was an inconsistancy in their results with original works where S/MIME was used more into PGP, but does not look into the cause of this or the impacts. 
   * This study does not present any clear solutions to the problem other than suggesting that the University more aggressively impress onto its members that encryption is important. 
