@@ -43,10 +43,11 @@ Finally, we can run this trained model on the environment and visualize how it p
 ```
 state = env.reset()
 while True:
-    action, _ = model.predict(state)
+    action = model.predict(state)
     state, reward, done, info = env.step(action)
     env.render()
 ```
+When comparing this to the raw environment where the model does random actions, the model does not know where to go and jumps randomly from left to right or stays in place. However, after training we clearly see that the model is driven by a reward, that is to go as far right as fast as possible. 
 
 ## Complications/Issues
   * Could not install all dependencies from environment.yml file. This was due to some packages not being compatible with Macbook.
