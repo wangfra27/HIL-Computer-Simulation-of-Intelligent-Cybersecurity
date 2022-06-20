@@ -20,8 +20,23 @@ One problem with the Chameleon attack is that if the hijacked and the target dat
 In order to evaluate the different model hijacking attacks, three well-established computer vision benchmark datasets were used: MNIST, CIFAR-10, and CelebA. MNIST is a grey-scale handwritten digits classification dataset. It contains 70,000 images each containing a single digit and correspondingly split into 10 classes. CIFAR-10 is a 10 class colored dataset consisting of 60,000 images. CelebA is a dataset of face attributes with more than 200,000 colored images each containing the face of a celebrity in the middle.
 
 ### Attack Success Rate
+
+#### Chameleon Attack
 ![image](https://user-images.githubusercontent.com/52840861/174518497-c8e7173c-3baa-4c2c-9a45-d1dc7bb2f326.png)
 
+We use MNIST as out hijacking dataset and both CIFAR-10 and CelebA as the original datasets fr this attack. We followed the methodology stated for the Chameleon attack stated above. We sampled 1,000 for 8 random classes in the original dataset and sampled 10,000 randomly from the hijacking dataset. We then proceed to follow the methodology stated above to train the Camouflager. After training the Camouflager, we use it together with the same target dataset to camouflage 40,000 randomly sampled samples from the target dataset. We then train the target model with both the camouflage and the original samples.
+#### Performance Evaluation
+The Chameleon attack achieves 99% accuracy on the original dataset (when original task is CIFAR-10 Classification), 99.5% accuracy on the CelebA classification model. Take into note that this is with a significance difference between the hijacking and the target dataset. 
+
+#### Adverse Chameleon Attack
+![image](https://user-images.githubusercontent.com/52840861/174521653-feb38582-a41e-48b6-a1e4-45dea5894571.png)
+
+As stated above, the Chameleon attack only when the hijacking and the target datasets are significantly different. For example, when performing the the Chameleon attack using CIFAR-10 as the original dataset and CelebA as the hijacking dataset it only achieves a success rate of 65.7%. Thus, when considering CelebA and Cifar-10 as the hijacking datasets we would use the Adverse Chameleon Attack.
+#### Performance Evaluation
+The Adverse Chameleon attack achieved 73.7% accuracy on the CIFAR-10 testing dataset when camouflaging CelebA to hijack CIFAR-10 classification model. For the opposite case, the attack has a 56.8% accuracy. Not great but it is better than guessing. 
+
+## Conclusion
+In short, this new type of attack we proposed can cause severe security and accountability risks. The hijacked model's owner could be framed for the illegal and unethical task their model is capable of.
 
 
 
