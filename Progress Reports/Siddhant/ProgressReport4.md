@@ -1,4 +1,6 @@
 ## Accomplishments:
+* Read "Get a Model! Model Hijacking Attack Against Machine Learning Models" and wrote review
+* Got NES Mario running with a PPO algorithm (I did not use retro as I had trouble installing, instead I followed [this](https://pypi.org/project/gym-super-mario-bros/))
 * Succesfully installed AirSim and built it
 * Succesfully ran a simulation where I controlled a car through keyboard input within the Blocks environment
 
