@@ -3,6 +3,7 @@
   * Learned to use a yaml file
   * Became familiar with Jupyter Notebooks
   * Successfully integrated Mario environment with PPO from Stable-Baselines3
+
 Import Mario gym environment by installing gym_super_mario_bros. Nes_py is used to emulate the environment by imitating controls from a NES joypad, essentially giving the model a range of actions.
 ```
 from nes_py.wrappers import JoypadSpace
@@ -37,6 +38,7 @@ model.save('Mario_model1')
 model.load('Mario_model1')
 ```
 The hyperparameters can be adjusted according to the desired speed and timeframe of the model. For example, the total_timesteps can be reduced to adjust the amount of time the model will be trained. Note that the training may take several hours depending on the timesteps.
+
 Finally, we can run this trained model on the environment and visualize how it performs.
 ```
 state = env.reset()
