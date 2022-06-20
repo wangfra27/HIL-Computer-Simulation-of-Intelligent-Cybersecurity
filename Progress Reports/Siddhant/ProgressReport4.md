@@ -15,9 +15,11 @@
 
 
 ## Problems:
-My laptop is not powerful enough to run more elaborate environments
+* My laptop is not powerful enough to run more elaborate environments
+* Had trouble installing Retro and getting it to work
 
 ## Ongoing:
-
+* Working on getting different types of algorithms to work with AirSim.
 
 ## Next Step:
+* Work on installing Retro successfully.
