@@ -42,7 +42,11 @@ Non-distributive (Average, Standard Deviation, Variance)
 Time state (First, Last, Current Period)
 ___
 
-Our optimization problem for poisoning attacks is based on that of [this paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). 
+Our optimization problem for poisoning attacks is based on that of [this paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). Specifically, we aim to craft poisoned updates (via data or model poisoning) which will increase the overall distance between the poisoned aggregate (computed using poisoned and benign update) and the benign aggregrate (computed using only benign updates). This can be formalized as follows:
+
+![optimization problem formalization](https://user-images.githubusercontent.com/52840861/175459090-203d1a7d-39b1-4ae8-a524-b89faf1178e5.png)
+
+**m** is the number of compromised clients selected in the given round. f_agr is the target AGR/ f_avg is the Average AGR. The del with the **n** are the benign updates available to the adversary (e.g., updates computed using the benign data of compromised clients). del **b** is a reference benign aggregrate. And del with the **m** are **m** replicas of the poisoned update of our attack. del **p** is the final poisoned aggregrate.
 
 ## Analysis of FL Robustness
 
