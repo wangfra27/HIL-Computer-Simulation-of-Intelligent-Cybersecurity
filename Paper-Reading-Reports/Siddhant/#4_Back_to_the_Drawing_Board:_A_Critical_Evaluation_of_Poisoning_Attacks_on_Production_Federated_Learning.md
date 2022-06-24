@@ -14,7 +14,7 @@ Targeted Poisoning Attacks – These types of poisoning focus on misclassifying 
 Untargeted Poisoning Attacks – aim to reduce model accuracy on arbitrary inputs. It does not discriminate input.  
 
 #### Why Untargeted?
-The paper focuses specifically on Untargeted Poisoning Attacks as it is significantly relevant to production deployments: it can be used to impact a large population of FL clients and it can remain undetected for long duration.
+The paper focuses specifically on Untargeted Poisoning Attacks as it is significantly relevant to production deployments: it can be used to impact a large population of FL clients and it can remain undetected for long duration. From now on, unless states otherwise, whenever we mention "poisoning" we are talking about Untargeted Poisoning Attacks.
 
 ### The Gap Between Literature and Practice
 The existing literature on poisoning attacks and defenses for FL makes __unrealistic assumptions__  that do not hold in real-world FL deployments. For example, assumptions about the percentages of compromised clients, total number of FL clients, and the types of FL systems. For instance, state-of-the-art attacks assume adversaries who can compromise up to 25% of FL clients. For an app like GBoard with ~1B downloads, 25% compromised would mean an attacker controls __250 million android devices!__ Thus, we argue that the assumption in recent FL robustness works do not represent common real-world adversarial scenarios that account for the difficulty and cost of at-scale compromises.
@@ -72,4 +72,4 @@ The article has several implications on me as a beginner:
 
 ## Future Directions of this Research
 
-
+I think that the "systematization of practical poisoning threat models" were not particularly revolutionary. Although, the sections explaining the difference between the literature and how it is unrealistic was quite eye opening for me. While the systematization may not have been particularly revolutionary, I think some of the results they got are quite striking. I hope more research follows this trend and analyzes the robustness of FL in different practical settings.
