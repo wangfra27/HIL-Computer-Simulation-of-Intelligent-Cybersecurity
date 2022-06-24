@@ -17,4 +17,16 @@ Untargeted Poisoning Attacks – aim to reduce model accuracy on arbitrary input
 The paper focuses specifically on Untargeted Poisoning Attacks as it is significantly relevant to production deployments: it can be used to impact a large population of FL clients and it can remain undetected for long duration.
 
 ### The Gap Between Literature and Practice
-The existing literature on poisoning attacks and defenses for FL makes __unrealistic assumptions__  that do not hold in real-world FL deployments. For example, assumptions about the percentages of compromised clients, total number of FL clients, and the [types of FL systems](https://arxiv.org/pdf/1912.04977.pdf) For instance, state-of-the-art attacks assume adversaries who can compromise up to 25% of FL clients. For an app like GBoard with ~1B downloads, 25% compromised would mean an attacker controls __250 million android devices!__ Thus, we argue that the assumption in recent FL robustness works do not represent common real-world adversarial scenarios that account for the difficulty and cost of at-scale compromises.
+The existing literature on poisoning attacks and defenses for FL makes __unrealistic assumptions__  that do not hold in real-world FL deployments. For example, assumptions about the percentages of compromised clients, total number of FL clients, and the types of FL systems. For instance, state-of-the-art attacks assume adversaries who can compromise up to 25% of FL clients. For an app like GBoard with ~1B downloads, 25% compromised would mean an attacker controls __250 million android devices!__ Thus, we argue that the assumption in recent FL robustness works do not represent common real-world adversarial scenarios that account for the difficulty and cost of at-scale compromises.
+
+## Systemization of FL Poisoning Threat Models
+
+![table of key dimensions of threat model](https://user-images.githubusercontent.com/52840861/175435451-4b8e923d-af0a-49a5-8bfc-e6c543c1798f.png)
+
+We present three key dimensions for the threat model of FL poisoning, as shown above. Each combination of these dimensions constitutes a threat model. 
+
+## Improved Poisoning Attack
+
+
+## Analysis of FL Robustness
+
