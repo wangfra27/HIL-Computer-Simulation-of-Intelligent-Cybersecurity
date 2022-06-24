@@ -37,9 +37,9 @@ Note:
 An aggregation is a process in which numbers are gathered for statistical purposes and are expressed as one number. This could be in the form of a total or an average. Each measure has a regular aggregate. Aggregation rules can be used in addition to the regular aggregate. Aggregation rules define how a measure is aggregated in relation to one of more dimensions.
 
 Aggregation rules can be
-Distributive (Count, Sum, Maximum, Minimum)
-Non-distributive (Average, Standard Deviation, Variance)
-Time state (First, Last, Current Period)
+* Distributive (Count, Sum, Maximum, Minimum)
+* Non-distributive (Average, Standard Deviation, Variance)
+* Time state (First, Last, Current Period)
 ___
 
 Our optimization problem for poisoning attacks is based on that of [this paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). Specifically, we aim to craft poisoned updates (via data or model poisoning) which will increase the overall distance between the poisoned aggregate (computed using poisoned and benign update) and the benign aggregrate (computed using only benign updates). This can be formalized as follows:
@@ -47,6 +47,8 @@ Our optimization problem for poisoning attacks is based on that of [this paper](
 ![optimization problem formalization](https://user-images.githubusercontent.com/52840861/175459090-203d1a7d-39b1-4ae8-a524-b89faf1178e5.png)
 
 **m** is the number of compromised clients selected in the given round. f_agr is the target AGR/ f_avg is the Average AGR. The del with the **n** are the benign updates available to the adversary (e.g., updates computed using the benign data of compromised clients). del **b** is a reference benign aggregrate. And del with the **m** are **m** replicas of the poisoned update of our attack. del **p** is the final poisoned aggregrate.
+
+Although our optimization problem in (1) is the same as [the aformentioned paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf), there are two key differences from [the paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). First, we are the first to use (1) to construct systematic data poisoning attacks on FL. Second, our model poisoning attacks not only tailor the optimization in (1) to the given AGR, but also to the given dataset and global model, by using [stochastic gradient ascent](https://pastebin.com/DPYaFADk) algorithm; this boosts the efficacy of our attack.  
 
 ## Analysis of FL Robustness
 
