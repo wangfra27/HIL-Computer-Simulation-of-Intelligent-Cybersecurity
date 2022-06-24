@@ -23,7 +23,13 @@ The existing literature on poisoning attacks and defenses for FL makes __unreali
 
 ![table of key dimensions of threat model](https://user-images.githubusercontent.com/52840861/175435451-4b8e923d-af0a-49a5-8bfc-e6c543c1798f.png)
 
-We present three key dimensions for the threat model of FL poisoning, as shown above. Each combination of these dimensions constitutes a threat model. 
+We present three key dimensions for the threat model of FL poisoning, as shown above. Each combination of these dimensions constitutes a threat model. Note that some of these are impractical. 
+
+Production FL can either be **cross-device** or **cross-silo**. In cross-device FL, the number of clients is large (from few thousand to billions) and only a small fraction of them is chosen in each FL training round. In this case, the amount of data that can be processed is quite limited. And there is also the possibility of a small fraction dropping out due to highly unreliable network connections. In cross-silo FL, the number of clients is moderate (up to 100) and all clients are selected in each round. Clients are large corporations (e.g., banks) and have devices with ample resources. Thus, they can process ample data and client drop-outs do not happen. In both FL types, the on-device model used for inference and the on-device model being trained are different. Hence, and adversary cannot gain any insight into the training-model by querying the inference-model. That leaves 8 threat models behind. 
+
+![image](https://user-images.githubusercontent.com/52840861/175441335-a0efbc41-31f3-4bc0-a331-c12a04d514ad.png)
+
+However, going off what is practical, only 2 models are left: T4 (nobox offline data poison), and T5 (whitebox online model poison). Since model poisoning capability means whitebox access by default, thus T1 and T2 are not valid. In cross-device FL, only a select few clients get the most recent global model in each round. Hence, to gain whitebox access to the model, the adversary needs to control (i.e., break into) a large number of devices, which is impractical in practice. With whitebox access, the adversary can mount the stronger online model poisoning attacks (MPAs) instead of data poisoning attacks (DPAs). Therefore, T3, T7, and T8 are also impractical. Under T6, the adversary mounts and online attack (i.e., they adaptively poison the local data of the compromised clients). But, since the adversary has no knowledge of the current global model due to nobox access, they cannot generate new poisoning data adaptively. Hence, T6 is impractical.
 
 ## Improved Poisoning Attack
 
