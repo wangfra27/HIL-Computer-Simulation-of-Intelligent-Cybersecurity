@@ -33,6 +33,16 @@ However, going off what is practical, only 2 models are left: T4 (nobox offline 
 
 ## Improved Poisoning Attack
 
+Note:
+An aggregation is a process in which numbers are gathered for statistical purposes and are expressed as one number. This could be in the form of a total or an average. Each measure has a regular aggregate. Aggregation rules can be used in addition to the regular aggregate. Aggregation rules define how a measure is aggregated in relation to one of more dimensions.
+
+Aggregation rules can be
+Distributive (Count, Sum, Maximum, Minimum)
+Non-distributive (Average, Standard Deviation, Variance)
+Time state (First, Last, Current Period)
+___
+
+Our optimization problem for poisoning attacks is based on that of [this paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). 
 
 ## Analysis of FL Robustness
 
