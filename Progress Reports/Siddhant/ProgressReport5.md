@@ -3,9 +3,11 @@
 * Helped install Carla and Airsim
 * Managed to get Carla to succesfully spawn in a set amount of vehicles and pedestrians
 * Managed to set custom weather
-* 
-# Problems
-
-# Ongoing
+* Detailed notes [here](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Notes/Siddhant-06-24-22.md)
+# Problems/Ongoing
+* Still working on getting OpenPilot bridge to work. More details in the notes above.
 
 # Next Steps
+* Work on getting OpenPilot bridge to work
+* Figure out exactly which sensors we need in our experiments
+* Write a script to make a log file of data gathered from the sensors
