@@ -1,0 +1,10 @@
+# Finished:
+* Using Sid's ego.py I was able to find that Carla will generate 66kb of text data and 479.8 mb of image data in five minutes, with the image data consisting of RGB camera data and the text data consisting of IMU sensors, GNSS sensors, obstacle sensors, lane invasion sensors, and collision sensors
+* Began using [a machine learning tutorial](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/) to build a RL algorithm for Carla. The code in the tutorial is outdated and uses an old version of tensorflow. I have been working on updating the code so that it will run properly. 
+* There is another installation of Carla located under /opt/carla-simulator to experiement with that can be run using ./CarlaUE4.sh
+
+
+# Ongoing:
+* The current goal is to generate a file with a large of an output as possible in a short amount of time for Dr. Liu's report. We should consider adding information from the semantic segmentation camera, instance segmentation camera, optical flow camera, etc to maximize. 
+* finish updating the ML algorithm
+
