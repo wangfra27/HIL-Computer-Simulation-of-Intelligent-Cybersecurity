@@ -46,7 +46,7 @@ Our optimization problem for poisoning attacks is based on that of [this paper](
 
 ![optimization problem formalization](https://user-images.githubusercontent.com/52840861/175459090-203d1a7d-39b1-4ae8-a524-b89faf1178e5.png)
 
-**m** is the number of compromised clients selected in the given round. f_agr is the target AGR/ f_avg is the Average AGR. The del with the **n** are the benign updates available to the adversary (e.g., updates computed using the benign data of compromised clients). del **b** is a reference benign aggregrate. And del with the **m** are **m** replicas of the poisoned update of our attack. del **p** is the final poisoned aggregrate.
+**m** is the number of compromised clients selected in the given round. f_agr is the target AGR. f_avg is the Average AGR. The del with the **n** are the benign updates available to the adversary (e.g., updates computed using the benign data of compromised clients). del **b** is a reference benign aggregrate. And del with the **m** are **m** replicas of the poisoned update of our attack. del **p** is the final poisoned aggregrate.
 
 Although our optimization problem in (1) is the same as [the aformentioned paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf), there are two key differences from [the paper](https://people.cs.umass.edu/~amir/papers/NDSS21-model-poisoning.pdf). First, we are the first to use (1) to construct systematic data poisoning attacks on FL. Second, our model poisoning attacks not only tailor the optimization in (1) to the given AGR, but also to the given dataset and global model, by using [stochastic gradient ascent](https://pastebin.com/DPYaFADk) algorithm; this boosts the efficacy of our attack.  
 
