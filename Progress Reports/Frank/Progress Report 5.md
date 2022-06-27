@@ -11,7 +11,7 @@
   * The Reinforcement Learning Algorithm I was following online is outdated and uses an old version of Tensorflow. I have been updating the code accordingly-still in progress
   * There are more sensors that we have access to on Carla that we haven't written code for yet
   
-  #Problems
+  # Problems
   * The Carla server runs very slowly with an FPS of around 3. It is possible that we will be able to pull data faster from Carla once this problem is figured out
   * 
 
