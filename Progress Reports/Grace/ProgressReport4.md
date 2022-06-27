@@ -31,7 +31,7 @@ Pure Pursuit Visual:
 
 ## Critiques
   * Vista docs are not updated and there are some sections have no content
-  * The visualization is very simple and I wish there was more data points so I can easily find the differences between controllers
+  * The visualization is very simple and I wish there were more data points so I can easily find the differences between controllers
 
 ## Issues
   * I had to constantly free up space beacause the VM was taking up an unanticipated amount of storage
