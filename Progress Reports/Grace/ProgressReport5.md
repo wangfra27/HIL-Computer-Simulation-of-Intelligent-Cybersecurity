@@ -6,7 +6,7 @@
   * I was able to spawn multiple cars in a hyperrealistic simulation.
  <img width="1438" alt="Screen Shot 2022-07-11 at 12 57 56 PM" src="https://user-images.githubusercontent.com/73855373/178317972-0aaa055a-5773-4f55-b6ab-17795d6322fd.png">
   * Tested my code on multiple "maps".
-  * I found documentation of deep learning in Vista and its relation to Carla, although I have yet to carefully read it through. [Link](https://www.mit.edu/~amini/pubs/pdf/learning-in-simulation-vista.pdf)
+  * I found documentation of deep learning in Vista and its relation to Carla, although I have yet to carefully read it through: https://www.mit.edu/~amini/pubs/pdf/learning-in-simulation-vista.pdf
    
 ## Complications/Questions
   * Spawning multiple cars places them on top of each other, which trivializes the simulation
