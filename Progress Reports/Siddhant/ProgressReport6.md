@@ -18,7 +18,7 @@ Built on top of the Unreal Engine, the simulator integrates full featured physic
 ##### Pros:
 * photorealistic
 * opensource and easily downloadable
-* extensive documentation
+* [extensive documentation](https://flightmare.readthedocs.io/en/latest/documentation.html)
 * very customizable
 * compatible with ROS & Gazebo
 * compatible with OpenAI Gym (so implementing stablebaselines 3 should be relatively easy)
