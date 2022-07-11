@@ -6,21 +6,17 @@ Learning from All Vehicles is a sensor-based, learning-based, end-to-end driving
 
 ## Learning from all vehicles
 ![Alt text](./3-1.png)
-<img src="./3-1.png">
 
 The driving model consists of three parts: a perception module in the form of 2D spatial feature map, a motion planner, and a low-level controller. 
 
 ![Alt text](./3-2.png)
-<img src="./3-2.png">
 
 ### Perception Module
 The perception module uses three RGB cameras and one LiDAR sensor to generate a map of the surrounding area. A CenterPoint style detector is trained to identify each object and distinguish between pedestrians, vehicles and the ego vehicle. The perception model was pre-trained using fully labelled data and rotation augmentation in order to add to the strength of the model. This supervised pre-training allows researchers to standardize the data output for the motion planner. 
 
 ![Alt text](./3-3.png)
-<img src="./3-3.png">
 
 ![Alt text](./3-4.png)
-<img src="./3-4.png">
 
 ### Motion Planner
 The motion planner uses the output from the perception 
