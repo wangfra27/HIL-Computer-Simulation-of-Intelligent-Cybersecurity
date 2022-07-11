@@ -12,7 +12,7 @@
   * Spawning multiple cars places them on top of each other, which trivializes the simulation
   * In attempt to fix this issue, I used code from the Vista github but I ran into another issue: I need to have a directory to a "mesh", which I cannot find information on. It seems to be an .obj file that will be converted via Vista, however, I have not found such a file with the given documentation. 
   * I was successfully able to use RGB cameras, but when I attempt to use the Lidar and event cameras, it appears that I have missing files. 
-  * The simulator, although promising, still seems to have some missing info, or unavailable to the public. When I looked at ongoing issues in the Vista github, there are others with the same problems that I am having. 
+  * The simulator, although promising, still seems to have some missing info, or unavailable to the public. When I looked at ongoing issues in the Vista github, there are others with the same problems that I am having, however there has yet to be a solution.
   
 ## Next Goals
   * Start to try to integrate OpenAI baselines with Vista, see if it is compatible with Carla
