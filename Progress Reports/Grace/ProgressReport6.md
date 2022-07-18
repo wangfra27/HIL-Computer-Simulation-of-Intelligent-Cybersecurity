@@ -8,9 +8,10 @@
 <img width="237" alt="image" src="https://user-images.githubusercontent.com/73855373/179455848-eb6bfd5e-1255-4c3c-8638-81fe8d98a48c.png">
 Although the two car agents were created under the same conditions, the sensory output has different measurements at one timestep. However, this difference is indiscernible to the eye.
 
-  * Trained a Vista car agent through imitation learning 
-
 ## Issues
   * Some parts of Vista are unreleased, making it difficult to completely use its full potential. For example, there are some missing directories and conversion scripts for larger datasets are unavailable. 
-  * 
+
+## In-progress/Future Goals
+  * Training an agent using imitation learning. There is no output for some reason. 
+  * I downloaded KITTI dataset and am attempting to find if it is possible to convert into Vista-compatible files. 
 
