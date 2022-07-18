@@ -15,3 +15,8 @@ Although the two car agents were created under the same conditions, the sensory 
   * Training an agent using imitation learning. There is no output for some reason. 
   * I downloaded KITTI dataset and am attempting to find if it is possible to convert into Vista-compatible files. 
 
+## Waymo Research
+  * What is the data in Waymo and NuScene? What types of files, what does it measure, etc.
+  * How do I use the data? Research simulators that use it.
+  * Is there any overlap between Waymo/NuScene with Vista?
+
