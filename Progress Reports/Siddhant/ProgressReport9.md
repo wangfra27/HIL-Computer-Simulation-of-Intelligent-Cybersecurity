@@ -15,6 +15,7 @@ roslaunch flightros racing.launch
 
 # Ongoing
 * am working on creating some more custom scripts since right now i am merely cloning examples and editing them
+* working on getting a [flightmare_px4](https://github.com/gipsa-lab-uav/flightmare_px4) ros package to work.
 
 # Next Steps
-* perhaps work on generating adversarial attacks
+* If I manage to finish setting that up start getting some data so we can start outlining a paper
