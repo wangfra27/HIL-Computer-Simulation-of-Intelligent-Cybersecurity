@@ -99,7 +99,7 @@ To run:
 ```
 ./CarlaUE4.sh -fps=10 -benchmark
 export PYTHONPATH="`pwd`/PythonAPI:$PYTHONPATH" 
-CUDA_VISIBLE_DEVICES="0" python benchmark_agent.py --suite=town2 --model-path=ckpts/image/model-10.th --show
+CUDA_VISIBLE_DEVICES="0" python3 benchmark_agent.py --suite=town2 --model-path=ckpts/image/model-10.th --show
 ```
 
 ### LAV
@@ -113,3 +113,33 @@ LAV is an autonomous driving agent built for CARLA.
 * Install [PyTorch](https://pytorch.org/get-started/locally/)
 * Install [torch-scatter](https://github.com/rusty1s/pytorch_scatter) based on your `CUDA` and `PyTorch` versions.
 * Setup [wandb](https://docs.wandb.ai/quickstart)
+* Set Environment Variables: 
+```bash
+#!/bin/bash
+
+export CARLA_ROOT=[LINK TO YOUR CARLA FOLDER]
+export LEADERBOARD_ROOT=[LINK TO LAV REPO]/leaderboard
+export SCENARIO_RUNNER_ROOT=[LINK TO LAV REPO]/scenario_runner
+export PYTHONPATH="${CARLA_ROOT}/PythonAPI/carla/":"${SCENARIO_RUNNER_ROOT}":"${LEADERBOARD_ROOT}"
+export TEAM_AGENT=[LINK TO LAV REPO]/team_code/lav_agent.py
+export TEAM_CONFIG=[LINK TO LAV REPO]/team_code/config.yaml
+
+export SCENARIOS=${LEADERBOARD_ROOT}/data/all_towns_traffic_scenarios_public.json
+export REPETITIONS=1
+export CHECKPOINT_ENDPOINT=results.json
+export DEBUG_CHALLENGE=0
+export CHALLENGE_TRACK_CODENAME=SENSORS
+```
+## Training
+Download a subset of the [LAV dataset](https://utexas.box.com/s/evo96v5md4r8nooma3z17kcnfjzp2wed) and update the file location of data_dir in the config.yaml
+* Priveledged Motion Planning ` python3 -m lav.train_bev `
+* Semantic Segmentaion ` python3 -m lav.train_seg `
+* RGB Braking Prediction ` python3 -m lav.train_bra `
+* Point Painting ` python3 -m lav.data_paint `
+* Preception Pre-training ` python3 -m lav.train_full --perceive-only `
+* Update the lidar_model_dir in the config.yaml
+* End-to-end Training ` python3 -m lav.train_full `
+
+LAV requires a significant amount of GPU memory to run. If there are error messages regarding GPU storage usage, lower the batch size by appending ` --batch-size N ` where N is the desired batch size to the python commands or lower the default batch size in the respective python file. 
+
+LAV training creates .th files that are used by the agent and by the end-to-end training. These files are located in the files folder of the respective run and can be opened using [Therion] (https://therion.speleo.sk/). 
