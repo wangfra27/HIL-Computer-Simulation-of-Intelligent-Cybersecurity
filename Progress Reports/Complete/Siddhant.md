@@ -46,3 +46,5 @@
 ```
 roslaunch flightros racing.launch
 ```
+* Wrote detailed [documentation](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Notes/FlightmareInstallation.md) on the installation of Flightmare
+* Wrote [comments for racing.cpp](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Notes/racing.cpp) and pushed the code with the comments to Github
