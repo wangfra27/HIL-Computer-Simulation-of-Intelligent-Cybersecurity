@@ -143,3 +143,7 @@ Download a subset of the [LAV dataset](https://utexas.box.com/s/evo96v5md4r8noom
 LAV requires a significant amount of GPU memory to run. If there are error messages regarding GPU storage usage, lower the batch size by appending ` --batch-size N ` where N is the desired batch size to the python commands or lower the default batch size in the respective python file. 
 
 LAV training creates .th files that are used by the agent and by the end-to-end training. These files are located in the files folder of the respective run and can be opened using [Therion] (https://therion.speleo.sk/). 
+
+An example model can be run using ` ROUTES=leaderboard/data/routes_valid.xml ./leaderboard/scripts/run_evaluation.sh ` The spectator camera can be malipulated around the car using line 192 of ` /leaderboard/leadeboard/scenarios/scenario_manager.py `
+
+It is recommended to use the .sh version of CARLA as opposed to the URE version because it requires less computing power. 
