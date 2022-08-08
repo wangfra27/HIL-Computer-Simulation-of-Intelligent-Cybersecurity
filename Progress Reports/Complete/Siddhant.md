@@ -34,7 +34,10 @@
 * Helped install Carla and Airsim
 * Managed to get Carla to succesfully spawn in a set amount of vehicles and pedestrians
 * Managed to set custom weather
-* Detailed notes [here](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Notes/Siddhant-06-24-22.md)
+* Managed to get a script (ego.py) to work
+* Managed to figure out how to configure traffic
+* Managed to get a [log](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/files/8978536/test1.log) file from Carla
+* Wrote detailed notes and pushed them to Github [here](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Notes/Siddhant-06-24-22.md)
 * Did research into different simulators: Sim4CV and Flightmare. I created a [document](https://github.com/wangfra27/HIL-Computer-Simulation-of-Intelligent-Cybersecurity/blob/main/Progress%20Reports/Siddhant/ProgressReport6.md) that goes into the pros and cons of each and why I think Flightmare is the better choice. Also talked about problems with Openpilot.
 * Successfully set up Openpilot
 * Succesfully set up a server for running Flightmare simulations, it runs perfectly on the main desktop
