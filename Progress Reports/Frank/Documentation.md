@@ -49,6 +49,8 @@ After terminating a python script in Python, sometimes the process is not killed
 ```
 pkill -9 python
 ```
+Carla Sensors intake data at approximately the following rates: 
+![Alt text](./dataoutput.png)
 
 Installing Tensorflow: 
 The currently installed version of Pytorch is 1.9.0+cu111 and Tensorflow is 20.8. These are the specific versions that are compatible with Cuda on the computer and any other versions of Pytorch or Tensorflow will probably not work. 
