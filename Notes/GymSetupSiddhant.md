@@ -33,4 +33,49 @@ then
 ```
 conda install -c conda-forge gym-all
 ```
+if you want to work with atari environments, run this command after
+```
+pip install ale-py autorom[accept-rom-license]
+```
 # Linux
+## Prerequisites:
+* Python 3.9 is the recommended version
+### Miniconda
+* go to [this link](https://docs.conda.io/en/latest/miniconda.html) and install the latest Miniconda installer package for Linux that fits your system.
+* open a terminal
+* run the commands below
+```
+cd Downloads
+//insert your specific installer file in below if it is different
+chmod u+x ./Miniconda3-py39_4.12.0-Linux-x86_64
+./Miniconda3-py39_4.12.0-Linux-x86_64
+```
+* answer yes to any prompts that show up
+* close the terminal and then open a new one
+* run the following command
+```
+conda config --set auto_activate_base false
+```
+* close the terminal and open a new one
+* run the following command
+```
+conda list
+```
+If it works then you have succesfully installed Miniconda.
+
+## Installation:
+We are going to create a conda virtual environment specifically for Gym named "gym"
+
+run the following commands
+```
+conda create --name gym
+conda activate gym
+```
+then
+```
+conda install -c conda-forge gym-all
+```
+if you want to work with atari environments, run this command after
+```
+pip install ale-py autorom[accept-rom-license]
+```
