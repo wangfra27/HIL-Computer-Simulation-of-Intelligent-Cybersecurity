@@ -17,7 +17,7 @@ We will be using Miniconda for this installation. Miniconda is a distribution of
 * If you are using Python 3.9 you can use [this link](https://repo.anaconda.com/miniconda/Miniconda3-py39_4.12.0-Windows-x86_64.exe) to download the corresponding Miniconda installer. If you are not using Python 3.9, go to [this link](https://docs.conda.io/en/latest/miniconda.html) and install the corresponding Miniconda installer for your Python version.
 * Open the installer
 * Run through all the prompts
-* Once the installation is complete, search "Anaconda Prompt" in the Windows search box and open it
+* Once the installation is complete, search "Anaconda Prompt" in the Windows search box and open it. The following commands will be run in this terminal.
 
 If the following command runs succesfully, you have succesfully installed Miniconda. 
 ```
@@ -27,16 +27,16 @@ conda list
 ## Installation:
 We are going to create a conda virtual environment specifically for Gym named "gym"
 
-run the following commands
+Run the following commands within the Anaconda Prompt.
 ```
 conda create --name gym
 conda activate gym
 ```
-then
+Then run the following command to install Gym.
 ```
 conda install -c conda-forge gym-all
 ```
-if you want to work with atari environments, run this command after
+If you want to work with Atari environments, run this command after the previous one.
 ```
 pip install ale-py autorom[accept-rom-license]
 ```
@@ -78,7 +78,9 @@ Then run the following command to install Gym.
 ```
 conda install -c conda-forge gym-all
 ```
-If you want to work with atari environments, run this command after the previous one.
+If you want to work with Atari environments, run this command after the previous one.
 ```
 pip install ale-py autorom[accept-rom-license]
 ```
+## Quick Start
+
