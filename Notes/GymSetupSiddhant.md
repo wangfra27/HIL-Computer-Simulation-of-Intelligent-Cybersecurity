@@ -40,6 +40,84 @@ If you want to work with Atari environments, run this command after the previous
 ```
 pip install ale-py autorom[accept-rom-license]
 ```
+In addition, run this command to install Stable Baselines 3.
+```
+conda install -c conda-forge stable-baselines3
+```
+## Quick Start
+* Open an IDE of your choice
+* Create a new project
+* Make sure to import matplotlib.pyplot and gym modules
+* Create a new script file and copy-paste the following code into it
+```
+import gym
+import matplotlib.pyplot as plt
+env = gym.make('MountainCar-v0')
+import time
+
+obs = env.reset()
+
+for step in range(1500):
+    # take random actions
+    action = env.action_space.sample()
+    
+    # apply the action
+    obs, reward, done, info = env.step(action)
+
+    # Render the env
+    env.render()
+
+    # Wait a bit before the next frame
+    time.sleep(0.001)
+
+    # If the episode is up, then start another one
+    if done:
+        env.reset()
+
+# Close the env
+env.close()
+```
+The code above does not use any sort of algorithm to improve itself, instead it just samples a random action from all possible actions. The following code utilizes a reinforcement learning algorithm called PPO (Proximal Policy Optimization). The code uses [StableBaselines3](https://github.com/DLR-RM/stable-baselines3), so make sure to import it properly. We also need to install some more packages.
+
+* Open Anaconda Prompt
+* Run the following commands
+```
+activate gym
+conda install swig
+pip install box2d-py
+```
+Now that those packages are installed, make sure they are properly imported into any IDE you are using. 
+Now create a new script file and copy-paste the following code into it.
+```
+import gym
+from stable_baselines3 import PPO
+
+# Parallel environments
+#env = make_vec_env("LunarLander-v2", n_envs=8)
+
+# Create environment
+env = gym.make('LunarLander-v2')
+
+# Instantiate the agent
+model = PPO('MlpPolicy', env, verbose=1)
+# Train the agent
+model.learn(total_timesteps=int(2e6))
+# Save the agent
+model.save("ppo_lunar2")
+
+# Load the trained agent
+#model = PPO.load("ppo_lunar", env=env)
+
+# Enjoy trained agent
+obs = env.reset()
+for i in range(10000):
+    action, _states = model.predict(obs, deterministic=True)
+    obs, rewards, dones, info = env.step(action)
+    env.render()
+    if dones:
+        obs = env.reset()
+```
+This code will take a while to run but you
 # Linux
 ## Prerequisites:
 * Python 3.9 is the recommended version
@@ -81,6 +159,10 @@ conda install -c conda-forge gym-all
 If you want to work with Atari environments, run this command after the previous one.
 ```
 pip install ale-py autorom[accept-rom-license]
+```
+In addition, run this command to install Stable Baselines 3.
+```
+conda install -c conda-forge stable-baselines3
 ```
 ## Quick Start
 
