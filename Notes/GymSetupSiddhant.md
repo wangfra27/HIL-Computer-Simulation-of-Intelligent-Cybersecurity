@@ -117,7 +117,6 @@ for i in range(10000):
     if dones:
         obs = env.reset()
 ```
-This code will take a while to run but you
 # Linux
 ## Prerequisites:
 * Python 3.9 is the recommended version
