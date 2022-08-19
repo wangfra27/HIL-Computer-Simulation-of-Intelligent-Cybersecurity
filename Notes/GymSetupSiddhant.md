@@ -184,7 +184,7 @@ Create a new project for your scripts.
 
 Once your project has been created, click "File" at the top left of your window and then click "Settings".
 
-Find "Python Interpreter" and click it.
+Find "Python Interpreter" from the various dropdowns and click it.
 
 Click the plus button.
 
