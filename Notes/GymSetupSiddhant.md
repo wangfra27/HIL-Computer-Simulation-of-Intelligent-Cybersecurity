@@ -232,7 +232,9 @@ for step in range(1500):
 env.close()
 ```
 
-The code above does not use any sort of algorithm to improve itself, instead it just samples a random action from all possible actions. The following code utilizes a reinforcement learning algorithm called PPO (Proximal Policy Optimization) from [StableBaselines3](https://github.com/DLR-RM/stable-baselines3).
+The code above does not use any sort of algorithm to improve itself, instead it just samples a random action from all possible actions. 
+
+On the other hand, the following code utilizes a reinforcement learning algorithm called PPO (Proximal Policy Optimization) from [StableBaselines3](https://github.com/DLR-RM/stable-baselines3).
 
 ```
 import gym
