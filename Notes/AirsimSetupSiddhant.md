@@ -19,8 +19,10 @@
 *  Windows 10 SDK 10.0.19041
 *  the latest .NET Framework SDK (this is under the **Individual Components** tab)
 3. Start the installation.
-4. After the installation is done, open __**Developer Command Prompt for VS 2022**__
-5. Run the following commands:
+
+## AirSim
+1. Open `Developer Command Prompt for VS 2022`
+2. Run the following commands:
 > Note: It is not a good idea to install Airsim in C drive. This will cause errors. It is recommended to clone in a different drive. The first command that follows changes to a D drive but you can change that to a drive of your choosing.
 ```
 D:
@@ -31,6 +33,6 @@ build.cmd
 
 ## Associating Project File Extensions with Unreal Engine
 1. Close the Epic Games Launcher window.
-1. Open __**Task Manager**__
+1. Open `Task Manager`
 2. Scroll through and make sure that there is no task related to the launcher. If there is, click on it and hit "End Task"
 3. Now open the launcher again. There should be a popup asking if project file extensions should be associated with Unreal Engine, click yes.
