@@ -22,10 +22,9 @@
 
 ## AirSim
 1. Open `Developer Command Prompt for VS 2022`
-2. Run the following commands:
-> Note: It is not a good idea to install Airsim in C drive. This will cause errors. It is recommended to clone in a different drive. The first command that follows changes to a D drive but you can change that to a drive of your choosing.
+2. Navigate to a directory of your choosing and run the following commands:
+> Note: It is not a good idea to install Airsim in C drive. This will cause errors. It is recommended to clone in a different drive.
 ```
-D:
 git clone https://github.com/Microsoft/AirSim.git
 cd AirSim
 build.cmd
