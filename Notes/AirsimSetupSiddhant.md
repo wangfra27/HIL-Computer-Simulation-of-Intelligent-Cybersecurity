@@ -36,3 +36,24 @@ build.cmd
 1. Open `Task Manager`
 2. Scroll through and make sure that there is no task related to the launcher. If there is, click on it and hit "End Task"
 3. Now open the launcher again. There should be a popup asking if project file extensions should be associated with Unreal Engine, click yes.
+
+## Quick Start
+We will be using a Blocks environment that comes with Airsim.
+1. double click on the `Blocks.sln` file located at `AirSim\Unreal\Environments\Blocks`
+2. Select your Unreal project as Start Up project (e.g., Blocks project) and make sure Build config is set to "Develop Editor" and x64.
+3. After Unreal Editor loads, press the Play button.
+4. Hit the Stop button once you are done
+
+### Running a DQN algorithm
+1. Press the Play button.
+2. Open a new terminal
+3. Navigate to the following folder: `AirSim\PythonClient\reinforcement_learning`
+
+If you are currently running a car in your simulation, run the following command:
+```
+python3 dqn_car
+```
+If you are currently running a drone in your simulation, run the following command instead:
+```
+python3 dqn_drone
+```
